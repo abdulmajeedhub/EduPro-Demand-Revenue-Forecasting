@@ -24,7 +24,6 @@ Chosen for an education platform: high readability, professional trust, calm mod
 ## How to Run the Streamlit Dashboard
 
 ```bash
-cd /home/workdir/artifacts
 streamlit run app.py
 ```
 
