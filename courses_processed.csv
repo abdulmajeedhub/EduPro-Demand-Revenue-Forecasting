@@ -1,0 +1,351 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating,TeacherID,Expertise,YearsOfExperience,TeacherRating,EnrollmentCount,CourseRevenue,AvgTransactionValue,PriceBand,DurationBucket,RatingTier,ExperienceBucket,ExpertiseMatchScore,PastEnrollmentCount,PastAverageRevenue,RevenuePerEnrollment,LevelEnc,TypeEnc,CategoryEnc,PriceBandEnc,DurationBucketEnc,RatingTierEnc,ExperienceBucketEnc
+C0001,Programming,Live Online,Intermediate,19.99,6,4.27,T0072,Machine Learning,2,4.38,56,1091.98,19.499642857142856,Low,Short,Good,Junior,0.2,56,1091.98,19.499642857142856,2,1,8,1,2,2,0
+C0002,Finance,Self-Paced Video,Intermediate,29.99,8,4.59,T0087,Cloud Computing,9,4.5,68,1997.6599999999999,29.37735294117647,Low,Short,Excellent,Mid,0.2,68,1997.6599999999999,29.37735294117647,2,2,6,1,2,1,1
+C0003,Finance,Self-Paced Video,Advanced,29.99,25,3.66,T0038,Data Science,22,4.67,45,1302.01,28.933555555555554,Low,Long,Average,Senior,0.2,45,1302.01,28.933555555555554,0,2,6,1,0,0,2
+C0004,Finance,Self-Paced Video,Intermediate,99.99,40,3.84,T0006,Cloud Computing,7,4.97,42,4132.23,98.38642857142857,High,Long,Average,Mid,0.2,42,4132.23,98.38642857142857,2,2,6,0,0,0,1
+C0005,Soft Skills,Self-Paced Video,Beginner,29.99,15,4.55,T0086,Machine Learning,13,3.55,75,2178.5899999999997,29.047866666666664,Low,Medium,Excellent,Senior,0.2,75,2178.5899999999997,29.047866666666664,1,2,9,1,1,1,2
+C0006,Design,Live Online,Beginner,149.99,8,3.58,T0025,JavaScript,9,3.61,26,3869.96,148.8446153846154,High,Short,Average,Mid,0.2,26,3869.96,148.8446153846154,1,1,5,0,2,0,1
+C0007,Design,Self-Paced Video,Beginner,39.99,20,4.23,T0082,Python Programming,7,4.63,72,2796.57,38.84125,Low,Medium,Good,Mid,0.2,72,2796.57,38.84125,1,2,5,1,1,2,1
+C0008,Cybersecurity,Self-Paced Video,Intermediate,29.99,10,4.4,T0017,Web Development,3,4.7,61,1800.7199999999998,29.519999999999996,Low,Medium,Good,Junior,0.2,61,1800.7199999999998,29.519999999999996,2,2,3,1,1,2,0
+C0009,Marketing,Live Online,Beginner,79.99,30,4.4,T0061,UI/UX Design,5,3.49,44,3503.68,79.6290909090909,Medium,Long,Good,Junior,0.2,44,3503.68,79.6290909090909,1,1,7,2,0,2,0
+C0010,Cloud & DevOps,Self-Paced Video,Intermediate,59.99,12,3.53,T0012,UI/UX Design,24,3.86,27,1580.54,58.538518518518515,Medium,Medium,Average,Senior,0.2,27,1580.54,58.538518518518515,2,2,2,2,1,0,2
+C0011,Cybersecurity,Self-Paced Video,Intermediate,49.99,8,3.98,T0006,Cloud Computing,7,4.97,56,2749.58,49.099642857142854,Medium,Short,Average,Mid,0.2,56,2749.58,49.099642857142854,2,2,3,2,2,0,1
+C0012,Soft Skills,Live Online,Beginner,49.99,6,4.45,T0090,Finance,6,4.36,75,3658.61,48.78146666666667,Medium,Short,Good,Mid,0.2,75,3658.61,48.78146666666667,1,1,9,2,2,2,1
+C0013,Business,Hybrid,Intermediate,59.99,50,3.72,T0027,Digital Marketing,12,3.51,27,1585.66,58.72814814814815,Medium,Long,Average,Mid,0.2,27,1585.66,58.72814814814815,2,0,1,2,0,0,1
+C0014,Business,Self-Paced Video,Beginner,29.99,6,4.54,T0008,Business Analytics,24,4.41,85,2515.23,29.59094117647059,Low,Short,Excellent,Senior,1.0,85,2515.23,29.59094117647059,1,2,1,1,2,1,2
+C0015,Data Science,Self-Paced Video,Beginner,199.99,8,4.62,T0083,Finance,1,4.1,53,10398.17,196.19188679245283,High,Short,Excellent,Junior,0.2,53,10398.17,196.19188679245283,1,2,4,0,2,1,0
+C0016,Marketing,Self-Paced Video,Intermediate,149.99,6,4.97,T0106,Leadership,20,3.51,63,9241.67,146.6931746031746,High,Short,Excellent,Senior,0.2,63,9241.67,146.6931746031746,2,2,7,0,2,1,2
+C0017,Data Science,Self-Paced Video,Intermediate,59.99,10,3.81,T0065,JavaScript,15,3.6,25,1476.97,59.0788,Medium,Medium,Average,Senior,0.2,25,1476.97,59.0788,2,2,4,2,1,0,2
+C0018,Design,Self-Paced Video,Intermediate,29.99,6,4.74,T0057,Python Programming,7,3.22,52,1528.3999999999999,29.39230769230769,Low,Short,Excellent,Mid,0.2,52,1528.3999999999999,29.39230769230769,2,2,5,1,2,1,1
+C0019,Design,Self-Paced Video,Intermediate,59.99,40,4.28,T0093,Project Management,5,4.92,61,3581.46,58.712459016393446,Medium,Long,Good,Junior,0.2,61,3581.46,58.712459016393446,2,2,5,2,0,2,0
+C0020,Programming,Self-Paced Video,Beginner,19.99,30,4.06,T0109,Finance,2,4.45,62,1213.6599999999999,19.57516129032258,Low,Long,Good,Junior,0.2,62,1213.6599999999999,19.57516129032258,1,2,8,1,0,2,0
+C0021,Marketing,Self-Paced Video,Advanced,19.99,6,3.68,T0113,Finance,17,4.98,37,722.8399999999999,19.536216216216214,Low,Short,Average,Senior,0.2,37,722.8399999999999,19.536216216216214,0,2,7,1,2,0,2
+C0022,Data Science,Self-Paced Video,Intermediate,29.99,30,4.6,T0099,Project Management,15,4.94,90,2622.0,29.133333333333333,Low,Long,Excellent,Senior,0.2,90,2622.0,29.133333333333333,2,2,4,1,0,1,2
+C0023,Data Science,Self-Paced Video,Intermediate,49.99,15,3.85,T0040,SQL & Databases,1,4.15,28,1369.1200000000001,48.89714285714286,Medium,Medium,Average,Junior,1.0,28,1369.1200000000001,48.89714285714286,2,2,4,2,1,0,0
+C0024,Finance,Self-Paced Video,Beginner,99.99,4,4.06,T0014,SQL & Databases,19,4.34,56,5447.86,97.28321428571428,High,Short,Good,Senior,0.2,56,5447.86,97.28321428571428,1,2,6,0,2,2,2
+C0025,Business,Self-Paced Video,Intermediate,79.99,10,3.59,T0035,Artificial Intelligence,3,4.78,43,3356.3999999999996,78.05581395348837,Medium,Medium,Average,Junior,0.2,43,3356.3999999999996,78.05581395348837,2,2,1,2,1,0,0
+C0026,Data Science,Self-Paced Video,Beginner,79.99,4,4.7,T0048,Leadership,23,4.51,86,6648.179999999999,77.30441860465116,Medium,Short,Excellent,Senior,0.2,86,6648.179999999999,77.30441860465116,1,2,4,2,2,1,2
+C0027,Design,Hybrid,Beginner,49.99,15,4.65,T0109,Finance,2,4.45,68,3339.51,49.110441176470594,Medium,Medium,Excellent,Junior,0.2,68,3339.51,49.110441176470594,1,0,5,2,1,1,0
+C0028,Cybersecurity,Live Online,Advanced,39.99,10,4.6,T0084,Data Science,1,4.24,51,1939.64,38.0321568627451,Low,Medium,Excellent,Junior,0.2,51,1939.64,38.0321568627451,0,1,3,1,1,1,0
+C0029,Programming,Live Online,Beginner,39.99,8,3.95,T0056,Business Analytics,19,4.29,59,2279.59,38.6371186440678,Low,Short,Average,Senior,0.2,59,2279.59,38.6371186440678,1,1,8,1,2,0,2
+C0030,Marketing,Live Online,Advanced,199.99,8,3.76,T0049,Finance,14,4.81,23,4575.38,198.9295652173913,High,Short,Average,Senior,0.2,23,4575.38,198.9295652173913,0,1,7,0,2,0,2
+C0031,Data Science,Self-Paced Video,Intermediate,19.99,30,4.46,T0013,SQL & Databases,11,4.34,47,919.53,19.564468085106384,Low,Long,Good,Mid,1.0,47,919.53,19.564468085106384,2,2,4,1,0,2,1
+C0032,Data Science,Self-Paced Video,Beginner,99.99,15,4.24,T0061,UI/UX Design,5,3.49,35,3427.5499999999997,97.92999999999999,High,Medium,Good,Junior,0.2,35,3427.5499999999997,97.92999999999999,1,2,4,0,1,2,0
+C0033,Design,Self-Paced Video,Intermediate,49.99,30,3.77,T0102,Project Management,9,3.73,23,1099.82,47.818260869565215,Medium,Long,Average,Mid,0.2,23,1099.82,47.818260869565215,2,2,5,2,0,0,1
+C0034,Design,Live Online,Advanced,49.99,12,4.53,T0049,Finance,14,4.81,61,2973.56,48.74688524590164,Medium,Medium,Excellent,Senior,0.2,61,2973.56,48.74688524590164,0,1,5,2,1,1,2
+C0035,Marketing,Live Online,Intermediate,79.99,6,4.99,T0046,Finance,1,3.81,59,4686.759999999999,79.43661016949152,Medium,Short,Excellent,Junior,0.2,59,4686.759999999999,79.43661016949152,2,1,7,2,2,1,0
+C0036,Cloud & DevOps,Self-Paced Video,Advanced,49.99,25,4.62,T0113,Finance,17,4.98,86,4190.84,48.73069767441861,Medium,Long,Excellent,Senior,0.2,86,4190.84,48.73069767441861,0,2,2,2,0,1,2
+C0037,AI & ML,Self-Paced Video,Intermediate,99.99,12,4.61,T0062,Machine Learning,23,4.19,70,6896.45,98.52071428571428,High,Medium,Excellent,Senior,0.2,70,6896.45,98.52071428571428,2,2,0,0,1,1,2
+C0038,Design,Self-Paced Video,Intermediate,129.99,6,4.93,T0008,Business Analytics,24,4.41,81,10339.17,127.64407407407407,High,Short,Excellent,Senior,0.2,81,10339.17,127.64407407407407,2,2,5,0,2,1,2
+C0039,Programming,Self-Paced Video,Advanced,49.99,10,3.8,T0043,JavaScript,15,4.81,55,2700.81,49.105636363636364,Medium,Medium,Average,Senior,0.7,55,2700.81,49.105636363636364,0,2,8,2,1,0,2
+C0040,Cybersecurity,Live Online,Beginner,39.99,30,4.35,T0020,Python Programming,5,3.27,45,1771.3300000000002,39.36288888888889,Low,Long,Good,Junior,0.2,45,1771.3300000000002,39.36288888888889,1,1,3,1,0,2,0
+C0041,Programming,Live Online,Intermediate,49.99,10,4.97,T0097,Leadership,12,4.87,94,4587.64,48.804680851063836,Medium,Medium,Excellent,Mid,0.2,94,4587.64,48.804680851063836,2,1,8,2,1,1,1
+C0042,Business,Self-Paced Video,Beginner,129.99,10,3.75,T0090,Finance,6,4.36,33,4217.17,127.7930303030303,High,Medium,Average,Mid,0.2,33,4217.17,127.7930303030303,1,2,1,0,1,0,1
+C0043,Data Science,Hybrid,Advanced,29.99,6,4.55,T0039,SQL & Databases,3,4.2,66,1929.79,29.239242424242423,Low,Short,Excellent,Junior,1.0,66,1929.79,29.239242424242423,0,0,4,1,2,1,0
+C0044,Data Science,Live Online,Advanced,59.99,15,4.38,T0085,Web Development,20,4.09,53,3099.82,58.487169811320754,Medium,Medium,Good,Senior,0.2,53,3099.82,58.487169811320754,0,1,4,2,1,2,2
+C0045,AI & ML,Self-Paced Video,Beginner,59.99,50,4.38,T0117,Machine Learning,2,4.53,68,4000.1800000000003,58.82617647058824,Medium,Long,Good,Junior,0.2,68,4000.1800000000003,58.82617647058824,1,2,0,2,0,2,0
+C0046,Finance,Self-Paced Video,Intermediate,79.99,6,4.55,T0049,Finance,14,4.81,85,6639.969999999999,78.11729411764705,Medium,Short,Excellent,Senior,1.0,85,6639.969999999999,78.11729411764705,2,2,6,2,2,1,2
+C0047,Cloud & DevOps,Self-Paced Video,Advanced,29.99,20,4.89,T0064,Cybersecurity,13,4.37,72,2138.25,29.697916666666668,Low,Medium,Excellent,Senior,0.2,72,2138.25,29.697916666666668,0,2,2,1,1,1,2
+C0048,Business,Self-Paced Video,Beginner,59.99,8,4.67,T0062,Machine Learning,23,4.19,78,4611.54,59.12230769230769,Medium,Short,Excellent,Senior,0.2,78,4611.54,59.12230769230769,1,2,1,2,2,1,2
+C0049,Data Science,Self-Paced Video,Intermediate,129.99,8,3.58,T0106,Leadership,20,3.51,18,2269.4300000000003,126.07944444444446,High,Short,Average,Senior,0.2,18,2269.4300000000003,126.07944444444446,2,2,4,0,2,0,2
+C0050,Data Science,Self-Paced Video,Advanced,29.99,12,4.78,T0107,Leadership,12,4.2,55,1610.6,29.28363636363636,Low,Medium,Excellent,Mid,0.2,55,1610.6,29.28363636363636,0,2,4,1,1,1,1
+C0051,Programming,Self-Paced Video,Beginner,29.99,8,3.84,T0054,Cybersecurity,10,3.49,34,989.6999999999999,29.10882352941176,Low,Short,Average,Mid,0.2,34,989.6999999999999,29.10882352941176,1,2,8,1,2,0,1
+C0052,Design,Self-Paced Video,Intermediate,149.99,6,4.07,T0105,Finance,17,3.77,34,5029.79,147.935,High,Short,Good,Senior,0.2,34,5029.79,147.935,2,2,5,0,2,2,2
+C0053,Cloud & DevOps,Hybrid,Beginner,29.99,40,4.19,T0009,UI/UX Design,1,4.57,57,1679.8799999999999,29.471578947368418,Low,Long,Good,Junior,0.2,57,1679.8799999999999,29.471578947368418,1,0,2,1,0,2,0
+C0054,Cloud & DevOps,Self-Paced Video,Advanced,99.99,30,4.22,T0088,Web Development,3,3.71,23,2234.96,97.17217391304348,High,Long,Good,Junior,0.2,23,2234.96,97.17217391304348,0,2,2,0,0,2,0
+C0055,Programming,Self-Paced Video,Advanced,49.99,6,4.15,T0037,Cybersecurity,8,4.39,35,1694.0800000000002,48.40228571428572,Medium,Short,Good,Mid,0.2,35,1694.0800000000002,48.40228571428572,0,2,8,2,2,2,1
+C0056,AI & ML,Self-Paced Video,Advanced,29.99,50,4.91,T0049,Finance,14,4.81,87,2552.02,29.333563218390804,Low,Long,Excellent,Senior,0.2,87,2552.02,29.333563218390804,0,2,0,1,0,1,2
+C0057,Cybersecurity,Hybrid,Intermediate,99.99,6,4.56,T0041,Leadership,3,3.64,32,3095.7599999999998,96.74249999999999,High,Short,Excellent,Junior,0.2,32,3095.7599999999998,96.74249999999999,2,0,3,0,2,1,0
+C0058,Marketing,Self-Paced Video,Advanced,49.99,25,4.45,T0017,Web Development,3,4.7,56,2745.59,49.02839285714286,Medium,Long,Good,Junior,0.2,56,2745.59,49.02839285714286,0,2,7,2,0,2,0
+C0059,Marketing,Self-Paced Video,Advanced,49.99,30,3.57,T0088,Web Development,3,3.71,5,225.89000000000001,45.178000000000004,Medium,Long,Average,Junior,0.2,5,225.89000000000001,45.178000000000004,0,2,7,2,0,0,0
+C0060,Business,Hybrid,Beginner,39.99,20,4.86,T0021,Digital Marketing,10,4.26,88,3477.59,39.51806818181819,Low,Medium,Excellent,Mid,0.2,88,3477.59,39.51806818181819,1,0,1,1,1,1,1
+C0061,Programming,Hybrid,Advanced,49.99,8,4.86,T0051,JavaScript,9,4.6,70,3446.84,49.24057142857143,Medium,Short,Excellent,Mid,0.7,70,3446.84,49.24057142857143,0,0,8,2,2,1,1
+C0062,Business,Live Online,Beginner,29.99,30,4.67,T0059,Business Analytics,20,4.39,86,2504.71,29.12453488372093,Low,Long,Excellent,Senior,1.0,86,2504.71,29.12453488372093,1,1,1,1,0,1,2
+C0063,Cybersecurity,Self-Paced Video,Intermediate,39.99,8,3.51,T0039,SQL & Databases,3,4.2,17,663.4200000000001,39.02470588235295,Low,Short,Average,Junior,0.2,17,663.4200000000001,39.02470588235295,2,2,3,1,2,0,0
+C0064,Data Science,Self-Paced Video,Beginner,149.99,12,3.59,T0055,Python Programming,13,4.82,41,5916.610000000001,144.30756097560976,High,Medium,Average,Senior,0.2,41,5916.610000000001,144.30756097560976,1,2,4,0,1,0,2
+C0065,Data Science,Live Online,Beginner,29.99,30,3.84,T0041,Leadership,3,3.64,37,1083.62,29.287027027027023,Low,Long,Average,Junior,0.2,37,1083.62,29.287027027027023,1,1,4,1,0,0,0
+C0066,Data Science,Hybrid,Beginner,59.99,8,3.7,T0039,SQL & Databases,3,4.2,41,2396.1800000000003,58.44341463414635,Medium,Short,Average,Junior,1.0,41,2396.1800000000003,58.44341463414635,1,0,4,2,2,0,0
+C0067,Data Science,Live Online,Intermediate,39.99,20,4.1,T0013,SQL & Databases,11,4.34,50,1961.15,39.223,Low,Medium,Good,Mid,1.0,50,1961.15,39.223,2,1,4,1,1,2,1
+C0068,Finance,Live Online,Beginner,79.99,4,4.88,T0064,Cybersecurity,13,4.37,75,5938.71,79.1828,Medium,Short,Excellent,Senior,0.2,75,5938.71,79.1828,1,1,6,2,2,1,2
+C0069,Cloud & DevOps,Self-Paced Video,Intermediate,29.99,10,4.21,T0011,Python Programming,8,4.51,57,1653.83,29.01456140350877,Low,Medium,Good,Mid,0.2,57,1653.83,29.01456140350877,2,2,2,1,1,2,1
+C0070,Design,Live Online,Beginner,149.99,10,3.52,T0110,UI/UX Design,3,4.23,19,2822.8700000000003,148.5721052631579,High,Medium,Average,Junior,1.0,19,2822.8700000000003,148.5721052631579,1,1,5,0,1,0,0
+C0071,Data Science,Self-Paced Video,Beginner,49.99,20,3.92,T0019,Cloud Computing,1,3.54,31,1479.8200000000002,47.73612903225807,Medium,Medium,Average,Junior,0.2,31,1479.8200000000002,47.73612903225807,1,2,4,2,1,0,0
+C0072,Design,Self-Paced Video,Intermediate,29.99,25,3.57,T0011,Python Programming,8,4.51,41,1195.3999999999999,29.156097560975606,Low,Long,Average,Mid,0.2,41,1195.3999999999999,29.156097560975606,2,2,5,1,0,0,1
+C0073,Design,Self-Paced Video,Intermediate,19.99,4,3.55,T0077,UI/UX Design,12,3.64,24,476.64,19.86,Low,Short,Average,Mid,1.0,24,476.64,19.86,2,2,5,1,2,0,1
+C0074,Data Science,Self-Paced Video,Beginner,29.99,12,3.91,T0046,Finance,1,3.81,36,1045.55,29.043055555555554,Low,Medium,Average,Junior,0.2,36,1045.55,29.043055555555554,1,2,4,1,1,0,0
+C0075,Business,Self-Paced Video,Intermediate,49.99,20,3.91,T0045,Leadership,3,4.34,32,1582.77,49.4615625,Medium,Medium,Average,Junior,0.2,32,1582.77,49.4615625,2,2,1,2,1,0,0
+C0076,Business,Self-Paced Video,Advanced,39.99,10,4.68,T0001,UI/UX Design,13,3.7,57,2206.4700000000003,38.71000000000001,Low,Medium,Excellent,Senior,0.2,57,2206.4700000000003,38.71000000000001,0,2,1,1,1,1,2
+C0077,Marketing,Live Online,Intermediate,99.99,10,4.96,T0040,SQL & Databases,1,4.15,53,5197.219999999999,98.06075471698112,High,Medium,Excellent,Junior,0.2,53,5197.219999999999,98.06075471698112,2,1,7,0,1,1,0
+C0078,Marketing,Self-Paced Video,Beginner,49.99,10,4.06,T0108,Cloud Computing,7,4.89,72,3541.5,49.1875,Medium,Medium,Good,Mid,0.2,72,3541.5,49.1875,1,2,7,2,1,2,1
+C0079,Data Science,Live Online,Beginner,29.99,15,4.14,T0019,Cloud Computing,1,3.54,39,1158.31,29.700256410256408,Low,Medium,Good,Junior,0.2,39,1158.31,29.700256410256408,1,1,4,1,1,2,0
+C0080,Business,Self-Paced Video,Advanced,59.99,20,4.77,T0076,JavaScript,6,3.68,47,2754.88,58.61446808510639,Medium,Medium,Excellent,Mid,0.2,47,2754.88,58.61446808510639,0,2,1,2,1,1,1
+C0081,Marketing,Self-Paced Video,Beginner,59.99,6,3.9,T0072,Machine Learning,2,4.38,35,2027.29,57.92257142857143,Medium,Short,Average,Junior,0.2,35,2027.29,57.92257142857143,1,2,7,2,2,0,0
+C0082,Design,Self-Paced Video,Advanced,29.99,12,3.73,T0072,Machine Learning,2,4.38,20,583.14,29.157,Low,Medium,Average,Junior,0.2,20,583.14,29.157,0,2,5,1,1,0,0
+C0083,Finance,Self-Paced Video,Intermediate,29.99,10,4.78,T0061,UI/UX Design,5,3.49,56,1649.8,29.460714285714285,Low,Medium,Excellent,Junior,0.2,56,1649.8,29.460714285714285,2,2,6,1,1,1,0
+C0084,Cloud & DevOps,Self-Paced Video,Advanced,19.99,8,3.57,T0117,Machine Learning,2,4.53,22,429.76,19.534545454545455,Low,Short,Average,Junior,0.2,22,429.76,19.534545454545455,0,2,2,1,2,0,0
+C0085,Data Science,Self-Paced Video,Intermediate,79.99,20,4.43,T0109,Finance,2,4.45,44,3461.5899999999997,78.6725,Medium,Medium,Good,Junior,0.2,44,3461.5899999999997,78.6725,2,2,4,2,1,2,0
+C0086,Data Science,Self-Paced Video,Advanced,59.99,50,4.34,T0012,UI/UX Design,24,3.86,40,2349.55,58.73875,Medium,Long,Good,Senior,0.2,40,2349.55,58.73875,0,2,4,2,0,2,2
+C0087,Marketing,Hybrid,Beginner,49.99,15,4.02,T0061,UI/UX Design,5,3.49,33,1624.0900000000001,49.21484848484849,Medium,Medium,Good,Junior,0.2,33,1624.0900000000001,49.21484848484849,1,0,7,2,1,2,0
+C0088,Data Science,Self-Paced Video,Intermediate,99.99,20,3.97,T0112,Cybersecurity,5,4.31,39,3735.5,95.78205128205128,High,Medium,Average,Junior,0.2,39,3735.5,95.78205128205128,2,2,4,0,1,0,0
+C0089,Marketing,Live Online,Intermediate,79.99,12,4.66,T0033,Project Management,24,3.4,62,4843.25,78.11693548387096,Medium,Medium,Excellent,Senior,0.2,62,4843.25,78.11693548387096,2,1,7,2,1,1,2
+C0090,AI & ML,Self-Paced Video,Intermediate,49.99,15,3.63,T0045,Leadership,3,4.34,19,926.9100000000001,48.78473684210527,Medium,Medium,Average,Junior,0.2,19,926.9100000000001,48.78473684210527,2,2,0,2,1,0,0
+C0091,Marketing,Live Online,Intermediate,99.99,12,3.86,T0090,Finance,6,4.36,42,4055.99,96.57119047619047,High,Medium,Average,Mid,0.2,42,4055.99,96.57119047619047,2,1,7,0,1,0,1
+C0092,Business,Live Online,Advanced,29.99,20,4.6,T0103,Finance,20,3.89,72,2127.56,29.549444444444443,Low,Medium,Excellent,Senior,0.2,72,2127.56,29.549444444444443,0,1,1,1,1,1,2
+C0093,Marketing,Live Online,Advanced,19.99,6,4.32,T0092,Digital Marketing,9,4.89,75,1453.0,19.373333333333335,Low,Short,Good,Mid,1.0,75,1453.0,19.373333333333335,0,1,7,1,2,2,1
+C0094,Design,Self-Paced Video,Intermediate,29.99,50,3.69,T0069,Cybersecurity,7,4.54,35,1018.7299999999999,29.106571428571424,Low,Long,Average,Mid,0.2,35,1018.7299999999999,29.106571428571424,2,2,5,1,0,0,1
+C0095,Design,Self-Paced Video,Intermediate,19.99,12,4.82,T0008,Business Analytics,24,4.41,92,1771.1999999999998,19.252173913043475,Low,Medium,Excellent,Senior,0.2,92,1771.1999999999998,19.252173913043475,2,2,5,1,1,1,2
+C0096,AI & ML,Self-Paced Video,Intermediate,49.99,15,4.09,T0025,JavaScript,9,3.61,38,1862.3300000000002,49.00868421052632,Medium,Medium,Good,Mid,0.2,38,1862.3300000000002,49.00868421052632,2,2,0,2,1,2,1
+C0097,Business,Hybrid,Intermediate,129.99,15,4.74,T0091,Digital Marketing,8,3.52,56,7139.38,127.48892857142857,High,Medium,Excellent,Mid,0.2,56,7139.38,127.48892857142857,2,0,1,0,1,1,1
+C0098,AI & ML,Live Online,Beginner,19.99,12,4.68,T0046,Finance,1,3.81,61,1181.22,19.364262295081968,Low,Medium,Excellent,Junior,0.2,61,1181.22,19.364262295081968,1,1,0,1,1,1,0
+C0099,Soft Skills,Hybrid,Beginner,29.99,40,4.44,T0087,Cloud Computing,9,4.5,73,2103.72,28.818082191780817,Low,Long,Good,Mid,0.2,73,2103.72,28.818082191780817,1,0,9,1,0,2,1
+C0100,Programming,Self-Paced Video,Beginner,49.99,20,4.24,T0030,Business Analytics,16,4.89,79,3836.4100000000003,48.56215189873418,Medium,Medium,Good,Senior,0.2,79,3836.4100000000003,48.56215189873418,1,2,8,2,1,2,2
+C0101,Data Science,Live Online,Beginner,129.99,40,4.97,T0109,Finance,2,4.45,78,9852.27,126.31115384615386,High,Long,Excellent,Junior,0.2,78,9852.27,126.31115384615386,1,1,4,0,0,1,0
+C0102,Data Science,Hybrid,Beginner,39.99,25,3.72,T0047,Finance,5,3.83,32,1233.91,38.5596875,Low,Long,Average,Junior,0.2,32,1233.91,38.5596875,1,0,4,1,0,0,0
+C0103,Data Science,Self-Paced Video,Beginner,49.99,20,4.59,T0087,Cloud Computing,9,4.5,83,4099.59,49.39265060240964,Medium,Medium,Excellent,Mid,0.2,83,4099.59,49.39265060240964,1,2,4,2,1,1,1
+C0104,Data Science,Self-Paced Video,Beginner,19.99,12,3.79,T0049,Finance,14,4.81,69,1346.28,19.511304347826087,Low,Medium,Average,Senior,0.2,69,1346.28,19.511304347826087,1,2,4,1,1,0,2
+C0105,Cloud & DevOps,Live Online,Beginner,29.99,4,4.01,T0047,Finance,5,3.83,52,1530.62,29.435,Low,Short,Good,Junior,0.2,52,1530.62,29.435,1,1,2,1,2,2,0
+C0106,Data Science,Live Online,Advanced,199.99,12,3.96,T0084,Data Science,1,4.24,13,2502.1,192.46923076923076,High,Medium,Average,Junior,1.0,13,2502.1,192.46923076923076,0,1,4,0,1,0,0
+C0107,Programming,Live Online,Intermediate,149.99,40,4.92,T0082,Python Programming,7,4.63,69,10092.75,146.27173913043478,High,Long,Excellent,Mid,1.0,69,10092.75,146.27173913043478,2,1,8,0,0,1,1
+C0108,Finance,Self-Paced Video,Beginner,19.99,6,4.95,T0018,Cloud Computing,3,3.78,75,1464.87,19.531599999999997,Low,Short,Excellent,Junior,0.2,75,1464.87,19.531599999999997,1,2,6,1,2,1,0
+C0109,Data Science,Live Online,Intermediate,149.99,12,3.77,T0066,Finance,11,4.48,41,5981.46,145.8892682926829,High,Medium,Average,Mid,0.2,41,5981.46,145.8892682926829,2,1,4,0,1,0,1
+C0110,Finance,Self-Paced Video,Beginner,59.99,12,3.53,T0068,Project Management,13,3.79,17,986.94,58.055294117647065,Medium,Medium,Average,Senior,0.2,17,986.94,58.055294117647065,1,2,6,2,1,0,2
+C0111,Programming,Self-Paced Video,Advanced,99.99,6,4.58,T0094,Web Development,1,4.85,76,7431.089999999999,97.77749999999999,High,Short,Excellent,Junior,0.7,76,7431.089999999999,97.77749999999999,0,2,8,0,2,1,0
+C0112,Data Science,Self-Paced Video,Intermediate,49.99,12,4.13,T0033,Project Management,24,3.4,47,2292.02,48.766382978723406,Medium,Medium,Good,Senior,0.2,47,2292.02,48.766382978723406,2,2,4,2,1,2,2
+C0113,Cloud & DevOps,Live Online,Beginner,49.99,10,3.63,T0036,JavaScript,12,3.66,29,1449.71,49.99,Medium,Medium,Average,Mid,0.2,29,1449.71,49.99,1,1,2,2,1,0,1
+C0114,Marketing,Live Online,Intermediate,49.99,4,4.53,T0082,Python Programming,7,4.63,83,4050.4300000000003,48.80036144578314,Medium,Short,Excellent,Mid,0.2,83,4050.4300000000003,48.80036144578314,2,1,7,2,2,1,1
+C0115,Soft Skills,Self-Paced Video,Advanced,59.99,8,4.32,T0101,Machine Learning,24,4.74,63,3682.98,58.46,Medium,Short,Good,Senior,0.2,63,3682.98,58.46,0,2,9,2,2,2,2
+C0116,Cybersecurity,Self-Paced Video,Advanced,29.99,4,4.97,T0019,Cloud Computing,1,3.54,62,1841.3799999999999,29.69967741935484,Low,Short,Excellent,Junior,0.2,62,1841.3799999999999,29.69967741935484,0,2,3,1,2,1,0
+C0117,Finance,Hybrid,Intermediate,19.99,50,3.84,T0111,JavaScript,17,3.37,29,553.41,19.08310344827586,Low,Long,Average,Senior,0.2,29,553.41,19.08310344827586,2,0,6,1,0,0,2
+C0118,Programming,Self-Paced Video,Intermediate,39.99,12,4.11,T0028,Machine Learning,2,4.44,34,1322.4,38.89411764705883,Low,Medium,Good,Junior,0.2,34,1322.4,38.89411764705883,2,2,8,1,1,2,0
+C0119,Data Science,Live Online,Beginner,59.99,10,4.31,T0040,SQL & Databases,1,4.15,56,3264.67,58.29767857142857,Medium,Medium,Good,Junior,1.0,56,3264.67,58.29767857142857,1,1,4,2,1,2,0
+C0120,Cybersecurity,Self-Paced Video,Advanced,29.99,20,4.69,T0084,Data Science,1,4.24,60,1738.37,28.97283333333333,Low,Medium,Excellent,Junior,0.2,60,1738.37,28.97283333333333,0,2,3,1,1,1,0
+C0121,Finance,Self-Paced Video,Beginner,59.99,12,4.32,T0113,Finance,17,4.98,91,5322.27,58.486483516483524,Medium,Medium,Good,Senior,1.0,91,5322.27,58.486483516483524,1,2,6,2,1,2,2
+C0122,AI & ML,Self-Paced Video,Advanced,149.99,40,4.42,T0097,Leadership,12,4.87,64,9358.82,146.2315625,High,Long,Good,Mid,0.2,64,9358.82,146.2315625,0,2,0,0,0,2,1
+C0123,Business,Self-Paced Video,Intermediate,19.99,10,3.84,T0076,JavaScript,6,3.68,22,421.28,19.14909090909091,Low,Medium,Average,Mid,0.2,22,421.28,19.14909090909091,2,2,1,1,1,0,1
+C0124,Business,Live Online,Intermediate,59.99,6,4.77,T0115,Business Analytics,17,4.13,73,4253.27,58.263972602739734,Medium,Short,Excellent,Senior,1.0,73,4253.27,58.263972602739734,2,1,1,2,2,1,2
+C0125,Cybersecurity,Self-Paced Video,Intermediate,49.99,10,4.14,T0015,Cloud Computing,17,4.16,53,2595.37,48.969245283018864,Medium,Medium,Good,Senior,0.2,53,2595.37,48.969245283018864,2,2,3,2,1,2,2
+C0126,Business,Self-Paced Video,Beginner,99.99,6,3.71,T0041,Leadership,3,3.64,19,1843.56,97.02947368421053,High,Short,Average,Junior,0.2,19,1843.56,97.02947368421053,1,2,1,0,2,0,0
+C0127,Soft Skills,Hybrid,Beginner,29.99,25,4.5,T0039,SQL & Databases,3,4.2,71,2036.1799999999998,28.67859154929577,Low,Long,Good,Junior,0.2,71,2036.1799999999998,28.67859154929577,1,0,9,1,0,2,0
+C0128,Finance,Self-Paced Video,Beginner,59.99,8,3.82,T0002,Web Development,9,4.83,49,2861.07,58.38918367346939,Medium,Short,Average,Mid,0.2,49,2861.07,58.38918367346939,1,2,6,2,2,0,1
+C0129,Business,Self-Paced Video,Beginner,99.99,30,3.65,T0063,Web Development,7,4.45,42,4062.71,96.73119047619048,High,Long,Average,Mid,0.2,42,4062.71,96.73119047619048,1,2,1,0,0,0,1
+C0130,Cybersecurity,Hybrid,Intermediate,129.99,10,4.79,T0029,JavaScript,1,3.9,50,6358.570000000001,127.1714,High,Medium,Excellent,Junior,0.2,50,6358.570000000001,127.1714,2,0,3,0,1,1,0
+C0131,Cybersecurity,Live Online,Beginner,59.99,15,4.19,T0105,Finance,17,3.77,51,2997.35,58.77156862745098,Medium,Medium,Good,Senior,0.2,51,2997.35,58.77156862745098,1,1,3,2,1,2,2
+C0132,Data Science,Self-Paced Video,Beginner,49.99,40,4.62,T0074,JavaScript,13,3.37,53,2577.0,48.62264150943396,Medium,Long,Excellent,Senior,0.2,53,2577.0,48.62264150943396,1,2,4,2,0,1,2
+C0133,Soft Skills,Hybrid,Advanced,59.99,12,3.94,T0066,Finance,11,4.48,28,1647.6100000000001,58.84321428571429,Medium,Medium,Average,Mid,0.2,28,1647.6100000000001,58.84321428571429,0,0,9,2,1,0,1
+C0134,Design,Live Online,Advanced,99.99,40,4.68,T0051,JavaScript,9,4.6,60,5842.429999999999,97.37383333333332,High,Long,Excellent,Mid,0.2,60,5842.429999999999,97.37383333333332,0,1,5,0,0,1,1
+C0135,Finance,Self-Paced Video,Advanced,49.99,4,3.67,T0075,Leadership,21,3.86,23,1141.74,49.64086956521739,Medium,Short,Average,Senior,0.2,23,1141.74,49.64086956521739,0,2,6,2,2,0,2
+C0136,Programming,Self-Paced Video,Advanced,19.99,30,4.03,T0077,UI/UX Design,12,3.64,27,521.9399999999999,19.33111111111111,Low,Long,Good,Mid,0.2,27,521.9399999999999,19.33111111111111,0,2,8,1,0,2,1
+C0137,Soft Skills,Live Online,Beginner,129.99,4,4.97,T0010,Project Management,12,3.63,67,8483.51,126.61955223880598,High,Short,Excellent,Mid,0.2,67,8483.51,126.61955223880598,1,1,9,0,2,1,1
+C0138,Business,Live Online,Beginner,59.99,25,4.69,T0014,SQL & Databases,19,4.34,83,4893.150000000001,58.95361445783133,Medium,Long,Excellent,Senior,0.2,83,4893.150000000001,58.95361445783133,1,1,1,2,0,1,2
+C0139,Data Science,Self-Paced Video,Intermediate,59.99,30,4.25,T0082,Python Programming,7,4.63,59,3494.83,59.234406779661015,Medium,Long,Good,Mid,0.2,59,3494.83,59.234406779661015,2,2,4,2,0,2,1
+C0140,Soft Skills,Hybrid,Intermediate,29.99,30,4.01,T0051,JavaScript,9,4.6,52,1503.6399999999999,28.916153846153843,Low,Long,Good,Mid,0.2,52,1503.6399999999999,28.916153846153843,2,0,9,1,0,2,1
+C0141,Data Science,Live Online,Beginner,59.99,4,4.81,T0118,Leadership,2,4.45,80,4703.22,58.79025,Medium,Short,Excellent,Junior,0.2,80,4703.22,58.79025,1,1,4,2,2,1,0
+C0142,Programming,Self-Paced Video,Advanced,39.99,6,4.32,T0073,Web Development,10,4.22,48,1895.3300000000002,39.48604166666667,Low,Short,Good,Mid,0.7,48,1895.3300000000002,39.48604166666667,0,2,8,1,2,2,1
+C0143,AI & ML,Self-Paced Video,Beginner,59.99,4,4.64,T0039,SQL & Databases,3,4.2,79,4655.34,58.92835443037975,Medium,Short,Excellent,Junior,1.0,79,4655.34,58.92835443037975,1,2,0,2,2,1,0
+C0144,AI & ML,Self-Paced Video,Beginner,19.99,40,4.63,T0028,Machine Learning,2,4.44,87,1702.84,19.57287356321839,Low,Long,Excellent,Junior,0.2,87,1702.84,19.57287356321839,1,2,0,1,0,1,0
+C0145,Marketing,Live Online,Intermediate,59.99,6,3.53,T0003,Artificial Intelligence,15,3.63,23,1333.65,57.98478260869565,Medium,Short,Average,Senior,0.2,23,1333.65,57.98478260869565,2,1,7,2,2,0,2
+C0146,Marketing,Self-Paced Video,Intermediate,199.99,40,3.69,T0084,Data Science,1,4.24,8,1568.0500000000002,196.00625000000002,High,Long,Average,Junior,0.2,8,1568.0500000000002,196.00625000000002,2,2,7,0,0,0,0
+C0147,Business,Live Online,Intermediate,19.99,25,4.49,T0070,Project Management,19,4.37,64,1257.55,19.64921875,Low,Long,Good,Senior,0.7,64,1257.55,19.64921875,2,1,1,1,0,2,2
+C0148,Programming,Live Online,Beginner,149.99,12,3.74,T0027,Digital Marketing,12,3.51,27,3973.4500000000003,147.16481481481483,High,Medium,Average,Mid,0.2,27,3973.4500000000003,147.16481481481483,1,1,8,0,1,0,1
+C0149,Programming,Hybrid,Advanced,39.99,50,3.88,T0117,Machine Learning,2,4.53,45,1782.02,39.60044444444444,Low,Long,Average,Junior,0.2,45,1782.02,39.60044444444444,0,0,8,1,0,0,0
+C0150,Cloud & DevOps,Self-Paced Video,Beginner,99.99,20,4.92,T0002,Web Development,9,4.83,71,6943.139999999999,97.7907042253521,High,Medium,Excellent,Mid,0.2,71,6943.139999999999,97.7907042253521,1,2,2,0,1,1,1
+C0151,Cybersecurity,Live Online,Beginner,79.99,6,4.34,T0093,Project Management,5,4.92,68,5363.21,78.87073529411765,Medium,Short,Good,Junior,0.2,68,5363.21,78.87073529411765,1,1,3,2,2,2,0
+C0152,Cybersecurity,Self-Paced Video,Advanced,49.99,25,4.63,T0038,Data Science,22,4.67,72,3472.57,48.23013888888889,Medium,Long,Excellent,Senior,0.2,72,3472.57,48.23013888888889,0,2,3,2,0,1,2
+C0153,Cybersecurity,Live Online,Advanced,79.99,50,4.34,T0003,Artificial Intelligence,15,3.63,47,3681.7599999999998,78.33531914893616,Medium,Long,Good,Senior,0.2,47,3681.7599999999998,78.33531914893616,0,1,3,2,0,2,2
+C0154,Data Science,Self-Paced Video,Advanced,99.99,15,4.33,T0016,Business Analytics,8,3.36,27,2637.0499999999997,97.66851851851851,High,Medium,Good,Mid,0.2,27,2637.0499999999997,97.66851851851851,0,2,4,0,1,2,1
+C0155,Design,Self-Paced Video,Advanced,39.99,25,3.64,T0094,Web Development,1,4.85,35,1357.88,38.79657142857143,Low,Long,Average,Junior,0.2,35,1357.88,38.79657142857143,0,2,5,1,0,0,0
+C0156,Data Science,Live Online,Intermediate,39.99,4,4.02,T0040,SQL & Databases,1,4.15,36,1430.0500000000002,39.72361111111112,Low,Short,Good,Junior,1.0,36,1430.0500000000002,39.72361111111112,2,1,4,1,2,2,0
+C0157,Design,Self-Paced Video,Intermediate,59.99,4,3.92,T0002,Web Development,9,4.83,54,3127.84,57.92296296296296,Medium,Short,Average,Mid,0.2,54,3127.84,57.92296296296296,2,2,5,2,2,0,1
+C0158,Business,Self-Paced Video,Beginner,79.99,20,4.09,T0081,Leadership,23,4.34,56,4346.5,77.61607142857143,Medium,Medium,Good,Senior,0.2,56,4346.5,77.61607142857143,1,2,1,2,1,2,2
+C0159,Soft Skills,Live Online,Intermediate,79.99,25,4.7,T0041,Leadership,3,3.64,56,4370.95,78.05267857142857,Medium,Long,Excellent,Junior,0.2,56,4370.95,78.05267857142857,2,1,9,2,0,1,0
+C0160,Business,Live Online,Beginner,79.99,8,4.06,T0012,UI/UX Design,24,3.86,65,5132.24,78.95753846153846,Medium,Short,Good,Senior,0.2,65,5132.24,78.95753846153846,1,1,1,2,2,2,2
+C0161,Data Science,Live Online,Beginner,49.99,12,4.18,T0035,Artificial Intelligence,3,4.78,70,3369.6600000000003,48.138000000000005,Medium,Medium,Good,Junior,0.2,70,3369.6600000000003,48.138000000000005,1,1,4,2,1,2,0
+C0162,Data Science,Live Online,Intermediate,79.99,4,4.1,T0107,Leadership,12,4.2,38,2952.37,77.69394736842105,Medium,Short,Good,Mid,0.2,38,2952.37,77.69394736842105,2,1,4,2,2,2,1
+C0163,Cybersecurity,Self-Paced Video,Intermediate,29.99,20,3.64,T0065,JavaScript,15,3.6,28,827.66,29.559285714285714,Low,Medium,Average,Senior,0.2,28,827.66,29.559285714285714,2,2,3,1,1,0,2
+C0164,Marketing,Self-Paced Video,Beginner,49.99,12,4.16,T0055,Python Programming,13,4.82,77,3739.27,48.56194805194805,Medium,Medium,Good,Senior,0.2,77,3739.27,48.56194805194805,1,2,7,2,1,2,2
+C0165,Data Science,Self-Paced Video,Beginner,19.99,25,3.79,T0045,Leadership,3,4.34,45,874.15,19.425555555555555,Low,Long,Average,Junior,0.2,45,874.15,19.425555555555555,1,2,4,1,0,0,0
+C0166,Data Science,Self-Paced Video,Intermediate,39.99,25,3.78,T0079,Artificial Intelligence,20,3.91,42,1659.63,39.515,Low,Long,Average,Senior,0.2,42,1659.63,39.515,2,2,4,1,0,0,2
+C0167,Cloud & DevOps,Hybrid,Beginner,39.99,30,3.64,T0090,Finance,6,4.36,37,1436.0,38.810810810810814,Low,Long,Average,Mid,0.2,37,1436.0,38.810810810810814,1,0,2,1,0,0,1
+C0168,Data Science,Live Online,Advanced,39.99,20,4.04,T0101,Machine Learning,24,4.74,61,2408.58,39.48491803278689,Low,Medium,Good,Senior,0.2,61,2408.58,39.48491803278689,0,1,4,1,1,2,2
+C0169,Finance,Self-Paced Video,Intermediate,59.99,50,4.64,T0085,Web Development,20,4.09,67,3859.34,57.60208955223881,Medium,Long,Excellent,Senior,0.2,67,3859.34,57.60208955223881,2,2,6,2,0,1,2
+C0170,Cloud & DevOps,Self-Paced Video,Intermediate,39.99,4,3.91,T0062,Machine Learning,23,4.19,40,1562.99,39.07475,Low,Short,Average,Senior,0.2,40,1562.99,39.07475,2,2,2,1,2,0,2
+C0171,Data Science,Hybrid,Intermediate,49.99,8,3.97,T0049,Finance,14,4.81,52,2560.3,49.236538461538466,Medium,Short,Average,Senior,0.2,52,2560.3,49.236538461538466,2,0,4,2,2,0,2
+C0172,Data Science,Self-Paced Video,Advanced,29.99,25,4.46,T0095,Digital Marketing,19,3.87,53,1542.4399999999998,29.10264150943396,Low,Long,Good,Senior,0.2,53,1542.4399999999998,29.10264150943396,0,2,4,1,0,2,2
+C0173,AI & ML,Live Online,Beginner,39.99,8,3.79,T0025,JavaScript,9,3.61,32,1233.97,38.5615625,Low,Short,Average,Mid,0.2,32,1233.97,38.5615625,1,1,0,1,2,0,1
+C0174,Business,Self-Paced Video,Intermediate,29.99,25,4.85,T0023,Machine Learning,9,3.23,41,1199.85,29.26463414634146,Low,Long,Excellent,Mid,0.2,41,1199.85,29.26463414634146,2,2,1,1,0,1,1
+C0175,Business,Live Online,Intermediate,19.99,4,4.28,T0024,Cloud Computing,7,4.12,53,1021.28,19.269433962264152,Low,Short,Good,Mid,0.2,53,1021.28,19.269433962264152,2,1,1,1,2,2,1
+C0176,Finance,Self-Paced Video,Beginner,59.99,12,4.17,T0038,Data Science,22,4.67,84,4947.28,58.896190476190476,Medium,Medium,Good,Senior,0.2,84,4947.28,58.896190476190476,1,2,6,2,1,2,2
+C0177,AI & ML,Hybrid,Advanced,59.99,10,4.34,T0028,Machine Learning,2,4.44,37,2162.87,58.45594594594594,Medium,Medium,Good,Junior,0.2,37,2162.87,58.45594594594594,0,0,0,2,1,2,0
+C0178,AI & ML,Hybrid,Intermediate,59.99,12,3.75,T0021,Digital Marketing,10,4.26,36,2133.13,59.25361111111111,Medium,Medium,Average,Mid,0.2,36,2133.13,59.25361111111111,2,0,0,2,1,0,1
+C0179,Cybersecurity,Live Online,Intermediate,49.99,25,4.42,T0054,Cybersecurity,10,3.49,47,2314.04,49.23489361702128,Medium,Long,Good,Mid,1.0,47,2314.04,49.23489361702128,2,1,3,2,0,2,1
+C0180,Business,Live Online,Advanced,39.99,40,4.04,T0107,Leadership,12,4.2,40,1570.48,39.262,Low,Long,Good,Mid,0.2,40,1570.48,39.262,0,1,1,1,0,2,1
+C0181,Data Science,Hybrid,Advanced,99.99,10,4.85,T0018,Cloud Computing,3,3.78,38,3745.48,98.56526315789473,High,Medium,Excellent,Junior,0.2,38,3745.48,98.56526315789473,0,0,4,0,1,1,0
+C0182,Cybersecurity,Live Online,Intermediate,49.99,50,3.75,T0036,JavaScript,12,3.66,33,1623.17,49.1869696969697,Medium,Long,Average,Mid,0.2,33,1623.17,49.1869696969697,2,1,3,2,0,0,1
+C0183,Marketing,Self-Paced Video,Advanced,49.99,10,4.26,T0099,Project Management,15,4.94,58,2817.42,48.576206896551724,Medium,Medium,Good,Senior,0.2,58,2817.42,48.576206896551724,0,2,7,2,1,2,2
+C0184,Business,Live Online,Intermediate,19.99,8,4.4,T0045,Leadership,3,4.34,75,1446.51,19.2868,Low,Short,Good,Junior,0.2,75,1446.51,19.2868,2,1,1,1,2,2,0
+C0185,Soft Skills,Live Online,Intermediate,39.99,20,3.55,T0119,Business Analytics,22,4.46,42,1629.71,38.80261904761905,Low,Medium,Average,Senior,0.2,42,1629.71,38.80261904761905,2,1,9,1,1,0,2
+C0186,Data Science,Self-Paced Video,Intermediate,39.99,8,4.05,T0073,Web Development,10,4.22,47,1810.14,38.513617021276595,Low,Short,Good,Mid,0.2,47,1810.14,38.513617021276595,2,2,4,1,2,2,1
+C0187,Design,Live Online,Intermediate,39.99,8,4.6,T0053,Web Development,15,3.35,48,1893.38,39.44541666666667,Low,Short,Excellent,Senior,0.2,48,1893.38,39.44541666666667,2,1,5,1,2,1,2
+C0188,Data Science,Hybrid,Beginner,49.99,50,4.73,T0102,Project Management,9,3.73,80,3905.48,48.8185,Medium,Long,Excellent,Mid,0.2,80,3905.48,48.8185,1,0,4,2,0,1,1
+C0189,Design,Hybrid,Advanced,49.99,40,3.97,T0030,Business Analytics,16,4.89,63,3072.69,48.77285714285714,Medium,Long,Average,Senior,0.2,63,3072.69,48.77285714285714,0,0,5,2,0,0,2
+C0190,Data Science,Self-Paced Video,Advanced,59.99,12,4.7,T0060,Cybersecurity,4,3.21,26,1559.74,59.99,Medium,Medium,Excellent,Junior,0.2,26,1559.74,59.99,0,2,4,2,1,1,0
+C0191,Data Science,Self-Paced Video,Beginner,79.99,12,4.95,T0108,Cloud Computing,7,4.89,96,7447.57,77.57885416666666,Medium,Medium,Excellent,Mid,0.2,96,7447.57,77.57885416666666,1,2,4,2,1,1,1
+C0192,Data Science,Hybrid,Advanced,79.99,15,4.79,T0098,Machine Learning,24,3.97,64,5036.9,78.7015625,Medium,Medium,Excellent,Senior,0.2,64,5036.9,78.7015625,0,0,4,2,1,1,2
+C0193,Marketing,Live Online,Beginner,59.99,25,3.68,T0032,JavaScript,23,3.81,29,1691.25,58.31896551724138,Medium,Long,Average,Senior,0.2,29,1691.25,58.31896551724138,1,1,7,2,0,0,2
+C0194,Cybersecurity,Self-Paced Video,Beginner,149.99,40,4.61,T0067,Machine Learning,4,3.63,49,7123.84,145.38448979591837,High,Long,Excellent,Junior,0.2,49,7123.84,145.38448979591837,1,2,3,0,0,1,0
+C0195,Marketing,Hybrid,Intermediate,19.99,15,3.98,T0067,Machine Learning,4,3.63,24,453.19,18.882916666666667,Low,Medium,Average,Junior,0.2,24,453.19,18.882916666666667,2,0,7,1,1,0,0
+C0196,AI & ML,Hybrid,Beginner,29.99,4,4.98,T0028,Machine Learning,2,4.44,88,2603.83,29.588977272727274,Low,Short,Excellent,Junior,0.2,88,2603.83,29.588977272727274,1,0,0,1,2,1,0
+C0197,Business,Self-Paced Video,Advanced,19.99,25,4.23,T0044,JavaScript,14,4.82,51,996.0099999999999,19.529607843137253,Low,Long,Good,Senior,0.2,51,996.0099999999999,19.529607843137253,0,2,1,1,0,2,2
+C0198,Programming,Live Online,Advanced,59.99,25,3.68,T0079,Artificial Intelligence,20,3.91,34,1977.45,58.16029411764706,Medium,Long,Average,Senior,0.2,34,1977.45,58.16029411764706,0,1,8,2,0,0,2
+C0199,Finance,Self-Paced Video,Intermediate,99.99,30,4.59,T0041,Leadership,3,3.64,44,4274.72,97.15272727272728,High,Long,Excellent,Junior,0.2,44,4274.72,97.15272727272728,2,2,6,0,0,1,0
+C0200,Programming,Self-Paced Video,Beginner,29.99,30,3.98,T0063,Web Development,7,4.45,50,1464.26,29.2852,Low,Long,Average,Mid,0.7,50,1464.26,29.2852,1,2,8,1,0,0,1
+C0201,AI & ML,Self-Paced Video,Beginner,129.99,6,5.0,T0023,Machine Learning,9,3.23,70,8749.18,124.98828571428572,High,Short,Excellent,Mid,0.2,70,8749.18,124.98828571428572,1,2,0,0,2,1,1
+C0202,Data Science,Live Online,Intermediate,19.99,6,4.97,T0104,Web Development,17,4.73,96,1873.87,19.519479166666667,Low,Short,Excellent,Senior,0.2,96,1873.87,19.519479166666667,2,1,4,1,2,1,2
+C0203,AI & ML,Self-Paced Video,Advanced,129.99,8,4.48,T0075,Leadership,21,3.86,46,5769.240000000001,125.41826086956523,High,Short,Good,Senior,0.2,46,5769.240000000001,125.41826086956523,0,2,0,0,2,2,2
+C0204,Data Science,Self-Paced Video,Intermediate,39.99,4,3.69,T0048,Leadership,23,4.51,65,2544.54,39.14676923076923,Low,Short,Average,Senior,0.2,65,2544.54,39.14676923076923,2,2,4,1,2,0,2
+C0205,Soft Skills,Self-Paced Video,Beginner,19.99,10,4.53,T0032,JavaScript,23,3.81,70,1374.59,19.637,Low,Medium,Excellent,Senior,0.2,70,1374.59,19.637,1,2,9,1,1,1,2
+C0206,Design,Self-Paced Video,Intermediate,49.99,10,3.64,T0057,Python Programming,7,3.22,9,428.14,47.57111111111111,Medium,Medium,Average,Mid,0.2,9,428.14,47.57111111111111,2,2,5,2,1,0,1
+C0207,AI & ML,Hybrid,Intermediate,29.99,30,3.54,T0118,Leadership,2,4.45,29,850.2199999999999,29.317931034482754,Low,Long,Average,Junior,0.2,29,850.2199999999999,29.317931034482754,2,0,0,1,0,0,0
+C0208,Data Science,Self-Paced Video,Intermediate,39.99,30,4.73,T0100,JavaScript,22,4.93,104,4089.82,39.32519230769231,Low,Long,Excellent,Senior,0.2,104,4089.82,39.32519230769231,2,2,4,1,0,1,2
+C0209,Marketing,Self-Paced Video,Beginner,39.99,30,3.81,T0033,Project Management,24,3.4,40,1558.96,38.974000000000004,Low,Long,Average,Senior,0.2,40,1558.96,38.974000000000004,1,2,7,1,0,0,2
+C0210,AI & ML,Live Online,Intermediate,79.99,40,4.07,T0024,Cloud Computing,7,4.12,41,3184.0699999999997,77.66024390243902,Medium,Long,Good,Mid,0.2,41,3184.0699999999997,77.66024390243902,2,1,0,2,0,2,1
+C0211,Design,Self-Paced Video,Intermediate,49.99,20,4.96,T0039,SQL & Databases,3,4.2,63,3085.67,48.97888888888889,Medium,Medium,Excellent,Junior,0.2,63,3085.67,48.97888888888889,2,2,5,2,1,1,0
+C0212,Marketing,Self-Paced Video,Advanced,39.99,6,4.01,T0034,Digital Marketing,5,4.86,54,2086.1,38.63148148148148,Low,Short,Good,Junior,1.0,54,2086.1,38.63148148148148,0,2,7,1,2,2,0
+C0213,Cloud & DevOps,Self-Paced Video,Beginner,59.99,40,3.94,T0056,Business Analytics,19,4.29,48,2752.17,57.336875,Medium,Long,Average,Senior,0.2,48,2752.17,57.336875,1,2,2,2,0,0,2
+C0214,Design,Self-Paced Video,Intermediate,59.99,12,4.88,T0028,Machine Learning,2,4.44,74,4336.09,58.59581081081081,Medium,Medium,Excellent,Junior,0.2,74,4336.09,58.59581081081081,2,2,5,2,1,1,0
+C0215,Marketing,Self-Paced Video,Advanced,39.99,10,3.67,T0037,Cybersecurity,8,4.39,33,1294.5700000000002,39.229393939393944,Low,Medium,Average,Mid,0.2,33,1294.5700000000002,39.229393939393944,0,2,7,1,1,0,1
+C0216,Marketing,Self-Paced Video,Beginner,39.99,50,4.64,T0007,Artificial Intelligence,9,3.64,55,2146.88,39.03418181818182,Low,Long,Excellent,Mid,0.2,55,2146.88,39.03418181818182,1,2,7,1,0,1,1
+C0217,Soft Skills,Self-Paced Video,Advanced,29.99,25,4.98,T0068,Project Management,13,3.79,60,1745.1899999999998,29.086499999999997,Low,Long,Excellent,Senior,0.2,60,1745.1899999999998,29.086499999999997,0,2,9,1,0,1,2
+C0218,Data Science,Hybrid,Intermediate,29.99,6,4.85,T0037,Cybersecurity,8,4.39,57,1662.9499999999998,29.17456140350877,Low,Short,Excellent,Mid,0.2,57,1662.9499999999998,29.17456140350877,2,0,4,1,2,1,1
+C0219,Programming,Self-Paced Video,Beginner,59.99,15,4.48,T0056,Business Analytics,19,4.29,85,5043.54,59.335764705882355,Medium,Medium,Good,Senior,0.2,85,5043.54,59.335764705882355,1,2,8,2,1,2,2
+C0220,AI & ML,Live Online,Beginner,29.99,12,3.97,T0065,JavaScript,15,3.6,51,1510.8799999999999,29.625098039215683,Low,Medium,Average,Senior,0.2,51,1510.8799999999999,29.625098039215683,1,1,0,1,1,0,2
+C0221,Soft Skills,Live Online,Intermediate,49.99,6,3.88,T0065,JavaScript,15,3.6,29,1430.3700000000001,49.323103448275866,Medium,Short,Average,Senior,0.2,29,1430.3700000000001,49.323103448275866,2,1,9,2,2,0,2
+C0222,Design,Self-Paced Video,Beginner,59.99,50,4.73,T0047,Finance,5,3.83,72,4180.54,58.06305555555556,Medium,Long,Excellent,Junior,0.2,72,4180.54,58.06305555555556,1,2,5,2,0,1,0
+C0223,Marketing,Live Online,Intermediate,19.99,40,4.82,T0020,Python Programming,5,3.27,47,914.18,19.450638297872338,Low,Long,Excellent,Junior,0.2,47,914.18,19.450638297872338,2,1,7,1,0,1,0
+C0224,Programming,Self-Paced Video,Beginner,49.99,4,4.29,T0019,Cloud Computing,1,3.54,48,2346.48,48.885,Medium,Short,Good,Junior,0.2,48,2346.48,48.885,1,2,8,2,2,2,0
+C0225,Programming,Hybrid,Intermediate,29.99,25,3.87,T0029,JavaScript,1,3.9,39,1121.01,28.743846153846153,Low,Long,Average,Junior,0.7,39,1121.01,28.743846153846153,2,0,8,1,0,0,0
+C0226,Design,Self-Paced Video,Beginner,149.99,6,3.67,T0074,JavaScript,13,3.37,17,2466.9100000000003,145.11235294117648,High,Short,Average,Senior,0.2,17,2466.9100000000003,145.11235294117648,1,2,5,0,2,0,2
+C0227,Business,Self-Paced Video,Advanced,49.99,20,3.63,T0060,Cybersecurity,4,3.21,3,149.97,49.99,Medium,Medium,Average,Junior,0.2,3,149.97,49.99,0,2,1,2,1,0,0
+C0228,Marketing,Self-Paced Video,Advanced,79.99,30,4.58,T0018,Cloud Computing,3,3.78,38,2913.22,76.66368421052631,Medium,Long,Excellent,Junior,0.2,38,2913.22,76.66368421052631,0,2,7,2,0,1,0
+C0229,Data Science,Hybrid,Advanced,49.99,30,4.13,T0092,Digital Marketing,9,4.89,49,2366.85,48.303061224489795,Medium,Long,Good,Mid,0.2,49,2366.85,48.303061224489795,0,0,4,2,0,2,1
+C0230,AI & ML,Self-Paced Video,Intermediate,19.99,25,4.86,T0035,Artificial Intelligence,3,4.78,69,1360.7199999999998,19.720579710144925,Low,Long,Excellent,Junior,0.7,69,1360.7199999999998,19.720579710144925,2,2,0,1,0,1,0
+C0231,AI & ML,Live Online,Beginner,59.99,50,4.61,T0043,JavaScript,15,4.81,94,5424.31,57.7054255319149,Medium,Long,Excellent,Senior,0.2,94,5424.31,57.7054255319149,1,1,0,2,0,1,2
+C0232,Cloud & DevOps,Self-Paced Video,Intermediate,149.99,40,3.79,T0111,JavaScript,17,3.37,10,1358.8700000000001,135.887,High,Long,Average,Senior,0.2,10,1358.8700000000001,135.887,2,2,2,0,0,0,2
+C0233,Design,Live Online,Beginner,59.99,30,4.42,T0095,Digital Marketing,19,3.87,64,3684.1800000000003,57.565312500000005,Medium,Long,Good,Senior,0.2,64,3684.1800000000003,57.565312500000005,1,1,5,2,0,2,2
+C0234,Programming,Self-Paced Video,Beginner,79.99,6,4.15,T0091,Digital Marketing,8,3.52,49,3828.2,78.12653061224489,Medium,Short,Good,Mid,0.2,49,3828.2,78.12653061224489,1,2,8,2,2,2,1
+C0235,Finance,Hybrid,Beginner,99.99,15,4.37,T0011,Python Programming,8,4.51,58,5554.65,95.76982758620689,High,Medium,Good,Mid,0.2,58,5554.65,95.76982758620689,1,0,6,0,1,2,1
+C0236,Cloud & DevOps,Self-Paced Video,Intermediate,29.99,10,4.61,T0049,Finance,14,4.81,84,2452.0899999999997,29.191547619047615,Low,Medium,Excellent,Senior,0.2,84,2452.0899999999997,29.191547619047615,2,2,2,1,1,1,2
+C0237,Data Science,Self-Paced Video,Intermediate,29.99,10,4.71,T0113,Finance,17,4.98,96,2795.6,29.120833333333334,Low,Medium,Excellent,Senior,0.2,96,2795.6,29.120833333333334,2,2,4,1,1,1,2
+C0238,Soft Skills,Self-Paced Video,Intermediate,59.99,12,4.77,T0038,Data Science,22,4.67,96,5599.03,58.323229166666664,Medium,Medium,Excellent,Senior,0.2,96,5599.03,58.323229166666664,2,2,9,2,1,1,2
+C0239,Finance,Self-Paced Video,Intermediate,39.99,8,3.88,T0064,Cybersecurity,13,4.37,53,2077.9700000000003,39.20698113207548,Low,Short,Average,Senior,0.2,53,2077.9700000000003,39.20698113207548,2,2,6,1,2,0,2
+C0240,AI & ML,Live Online,Beginner,99.99,4,3.55,T0069,Cybersecurity,7,4.54,43,4247.96,98.78976744186046,High,Short,Average,Mid,0.2,43,4247.96,98.78976744186046,1,1,0,0,2,0,1
+C0241,Cloud & DevOps,Self-Paced Video,Advanced,129.99,25,4.61,T0008,Business Analytics,24,4.41,71,8989.57,126.61366197183098,High,Long,Excellent,Senior,0.2,71,8989.57,126.61366197183098,0,2,2,0,0,1,2
+C0242,Marketing,Live Online,Intermediate,39.99,12,3.66,T0034,Digital Marketing,5,4.86,40,1577.02,39.4255,Low,Medium,Average,Junior,1.0,40,1577.02,39.4255,2,1,7,1,1,0,0
+C0243,Business,Self-Paced Video,Intermediate,29.99,8,3.97,T0048,Leadership,23,4.51,67,1991.79,29.72820895522388,Low,Short,Average,Senior,0.2,67,1991.79,29.72820895522388,2,2,1,1,2,0,2
+C0244,Soft Skills,Self-Paced Video,Beginner,79.99,40,3.51,T0116,Artificial Intelligence,17,4.78,55,4305.92,78.28945454545455,Medium,Long,Average,Senior,0.2,55,4305.92,78.28945454545455,1,2,9,2,0,0,2
+C0245,Finance,Self-Paced Video,Intermediate,39.99,20,4.52,T0056,Business Analytics,19,4.29,67,2618.92,39.08835820895523,Low,Medium,Excellent,Senior,0.2,67,2618.92,39.08835820895523,2,2,6,1,1,1,2
+C0246,Data Science,Self-Paced Video,Intermediate,99.99,20,3.75,T0076,JavaScript,6,3.68,15,1468.31,97.88733333333333,High,Medium,Average,Mid,0.2,15,1468.31,97.88733333333333,2,2,4,0,1,0,1
+C0247,Data Science,Live Online,Beginner,49.99,4,4.48,T0102,Project Management,9,3.73,68,3306.27,48.62161764705883,Medium,Short,Good,Mid,0.2,68,3306.27,48.62161764705883,1,1,4,2,2,2,1
+C0248,Business,Self-Paced Video,Beginner,59.99,30,4.99,T0065,JavaScript,15,3.6,79,4600.4800000000005,58.233924050632915,Medium,Long,Excellent,Senior,0.2,79,4600.4800000000005,58.233924050632915,1,2,1,2,0,1,2
+C0249,Finance,Self-Paced Video,Intermediate,19.99,6,3.61,T0031,Data Science,23,3.45,29,573.29,19.768620689655172,Low,Short,Average,Senior,0.2,29,573.29,19.768620689655172,2,2,6,1,2,0,2
+C0250,AI & ML,Hybrid,Intermediate,59.99,12,3.62,T0004,Leadership,13,3.46,20,1171.45,58.572500000000005,Medium,Medium,Average,Senior,0.2,20,1171.45,58.572500000000005,2,0,0,2,1,0,2
+C0251,Data Science,Hybrid,Beginner,49.99,12,4.01,T0113,Finance,17,4.98,87,4263.860000000001,49.00988505747127,Medium,Medium,Good,Senior,0.2,87,4263.860000000001,49.00988505747127,1,0,4,2,1,2,2
+C0252,Marketing,Self-Paced Video,Advanced,49.99,25,4.8,T0109,Finance,2,4.45,54,2637.27,48.83833333333333,Medium,Long,Excellent,Junior,0.2,54,2637.27,48.83833333333333,0,2,7,2,0,1,0
+C0253,Business,Self-Paced Video,Beginner,29.99,25,3.82,T0050,Python Programming,7,4.8,49,1419.96,28.978775510204084,Low,Long,Average,Mid,0.2,49,1419.96,28.978775510204084,1,2,1,1,0,0,1
+C0254,AI & ML,Live Online,Intermediate,79.99,20,4.04,T0069,Cybersecurity,7,4.54,59,4576.759999999999,77.57220338983049,Medium,Medium,Good,Mid,0.2,59,4576.759999999999,77.57220338983049,2,1,0,2,1,2,1
+C0255,Finance,Self-Paced Video,Advanced,99.99,20,3.6,T0030,Business Analytics,16,4.89,32,3053.14,95.410625,High,Medium,Average,Senior,0.2,32,3053.14,95.410625,0,2,6,0,1,0,2
+C0256,Finance,Self-Paced Video,Intermediate,29.99,50,4.64,T0120,Cloud Computing,23,3.85,67,1937.81,28.922537313432834,Low,Long,Excellent,Senior,0.2,67,1937.81,28.922537313432834,2,2,6,1,0,1,2
+C0257,Design,Self-Paced Video,Intermediate,19.99,15,4.11,T0088,Web Development,3,3.71,39,750.5799999999999,19.245641025641024,Low,Medium,Good,Junior,0.2,39,750.5799999999999,19.245641025641024,2,2,5,1,1,2,0
+C0258,Business,Live Online,Beginner,19.99,15,4.64,T0059,Business Analytics,20,4.39,103,2007.55,19.490776699029126,Low,Medium,Excellent,Senior,1.0,103,2007.55,19.490776699029126,1,1,1,1,1,1,2
+C0259,Programming,Live Online,Beginner,59.99,50,4.86,T0067,Machine Learning,4,3.63,76,4408.46,58.006052631578946,Medium,Long,Excellent,Junior,0.2,76,4408.46,58.006052631578946,1,1,8,2,0,1,0
+C0260,Data Science,Self-Paced Video,Advanced,59.99,30,3.85,T0075,Leadership,21,3.86,42,2426.46,57.77285714285714,Medium,Long,Average,Senior,0.2,42,2426.46,57.77285714285714,0,2,4,2,0,0,2
+C0261,Finance,Self-Paced Video,Intermediate,49.99,15,4.71,T0045,Leadership,3,4.34,62,3044.86,49.11064516129032,Medium,Medium,Excellent,Junior,0.2,62,3044.86,49.11064516129032,2,2,6,2,1,1,0
+C0262,Finance,Self-Paced Video,Advanced,29.99,6,3.59,T0004,Leadership,13,3.46,11,322.38,29.30727272727273,Low,Short,Average,Senior,0.2,11,322.38,29.30727272727273,0,2,6,1,2,0,2
+C0263,AI & ML,Live Online,Beginner,39.99,6,4.85,T0026,Finance,8,4.36,86,3377.6200000000003,39.274651162790704,Low,Short,Excellent,Mid,0.2,86,3377.6200000000003,39.274651162790704,1,1,0,1,2,1,1
+C0264,AI & ML,Self-Paced Video,Beginner,49.99,12,4.48,T0027,Digital Marketing,12,3.51,53,2568.9500000000003,48.47075471698114,Medium,Medium,Good,Mid,0.2,53,2568.9500000000003,48.47075471698114,1,2,0,2,1,2,1
+C0265,Marketing,Self-Paced Video,Beginner,49.99,10,4.81,T0046,Finance,1,3.81,67,3287.71,49.07029850746269,Medium,Medium,Excellent,Junior,0.2,67,3287.71,49.07029850746269,1,2,7,2,1,1,0
+C0266,Cybersecurity,Live Online,Intermediate,199.99,50,3.5,T0118,Leadership,2,4.45,17,3284.59,193.21117647058824,High,Long,Average,Junior,0.2,17,3284.59,193.21117647058824,2,1,3,0,0,0,0
+C0267,AI & ML,Self-Paced Video,Beginner,29.99,6,3.75,T0107,Leadership,12,4.2,48,1400.56,29.17833333333333,Low,Short,Average,Mid,0.2,48,1400.56,29.17833333333333,1,2,0,1,2,0,1
+C0268,Finance,Live Online,Advanced,59.99,8,4.08,T0064,Cybersecurity,13,4.37,39,2279.58,58.45076923076923,Medium,Short,Good,Senior,0.2,39,2279.58,58.45076923076923,0,1,6,2,2,2,2
+C0269,Programming,Self-Paced Video,Intermediate,39.99,20,4.07,T0091,Digital Marketing,8,3.52,26,999.74,38.45153846153846,Low,Medium,Good,Mid,0.2,26,999.74,38.45153846153846,2,2,8,1,1,2,1
+C0270,Design,Self-Paced Video,Advanced,49.99,25,3.84,T0106,Leadership,20,3.51,20,999.8000000000001,49.99,Medium,Long,Average,Senior,0.2,20,999.8000000000001,49.99,0,2,5,2,0,0,2
+C0271,Data Science,Self-Paced Video,Beginner,59.99,15,4.07,T0051,JavaScript,9,4.6,53,3113.33,58.742075471698115,Medium,Medium,Good,Mid,0.2,53,3113.33,58.742075471698115,1,2,4,2,1,2,1
+C0272,AI & ML,Live Online,Advanced,59.99,50,3.69,T0050,Python Programming,7,4.8,40,2326.53,58.163250000000005,Medium,Long,Average,Mid,0.2,40,2326.53,58.163250000000005,0,1,0,2,0,0,1
+C0273,Marketing,Hybrid,Intermediate,199.99,12,4.12,T0006,Cloud Computing,7,4.97,48,9251.68,192.74333333333334,High,Medium,Good,Mid,0.2,48,9251.68,192.74333333333334,2,0,7,0,1,2,1
+C0274,Programming,Live Online,Intermediate,29.99,4,4.7,T0059,Business Analytics,20,4.39,69,2042.25,29.597826086956523,Low,Short,Excellent,Senior,0.2,69,2042.25,29.597826086956523,2,1,8,1,2,1,2
+C0275,Cloud & DevOps,Self-Paced Video,Advanced,19.99,25,4.22,T0015,Cloud Computing,17,4.16,47,918.04,19.53276595744681,Low,Long,Good,Senior,1.0,47,918.04,19.53276595744681,0,2,2,1,0,2,2
+C0276,Marketing,Live Online,Intermediate,79.99,8,3.53,T0117,Machine Learning,2,4.53,31,2441.5499999999997,78.75967741935483,Medium,Short,Average,Junior,0.2,31,2441.5499999999997,78.75967741935483,2,1,7,2,2,0,0
+C0277,Business,Self-Paced Video,Intermediate,49.99,15,4.13,T0030,Business Analytics,16,4.89,51,2542.5,49.85294117647059,Medium,Medium,Good,Senior,1.0,51,2542.5,49.85294117647059,2,2,1,2,1,2,2
+C0278,Data Science,Self-Paced Video,Beginner,39.99,8,3.54,T0042,Project Management,5,3.37,10,386.63,38.663,Low,Short,Average,Junior,0.2,10,386.63,38.663,1,2,4,1,2,0,0
+C0279,Cloud & DevOps,Hybrid,Beginner,19.99,20,4.95,T0101,Machine Learning,24,4.74,108,2097.46,19.420925925925925,Low,Medium,Excellent,Senior,0.2,108,2097.46,19.420925925925925,1,0,2,1,1,1,2
+C0280,Design,Self-Paced Video,Advanced,19.99,20,3.69,T0037,Cybersecurity,8,4.39,36,700.8399999999999,19.467777777777776,Low,Medium,Average,Mid,0.2,36,700.8399999999999,19.467777777777776,0,2,5,1,1,0,1
+C0281,Cybersecurity,Self-Paced Video,Intermediate,99.99,30,4.56,T0042,Project Management,5,3.37,24,2300.5499999999997,95.85624999999999,High,Long,Excellent,Junior,0.2,24,2300.5499999999997,95.85624999999999,2,2,3,0,0,1,0
+C0282,Design,Self-Paced Video,Intermediate,29.99,12,4.96,T0101,Machine Learning,24,4.74,117,3393.5499999999997,29.004700854700854,Low,Medium,Excellent,Senior,0.2,117,3393.5499999999997,29.004700854700854,2,2,5,1,1,1,2
+C0283,Finance,Self-Paced Video,Intermediate,39.99,25,4.74,T0035,Artificial Intelligence,3,4.78,75,2902.17,38.6956,Low,Long,Excellent,Junior,0.2,75,2902.17,38.6956,2,2,6,1,0,1,0
+C0284,Marketing,Self-Paced Video,Beginner,29.99,40,4.55,T0087,Cloud Computing,9,4.5,69,2009.51,29.123333333333335,Low,Long,Excellent,Mid,0.2,69,2009.51,29.123333333333335,1,2,7,1,0,1,1
+C0285,Marketing,Live Online,Beginner,39.99,40,4.76,T0006,Cloud Computing,7,4.97,96,3776.52,39.33875,Low,Long,Excellent,Mid,0.2,96,3776.52,39.33875,1,1,7,1,0,1,1
+C0286,Soft Skills,Self-Paced Video,Intermediate,19.99,25,4.97,T0068,Project Management,13,3.79,74,1447.79,19.56472972972973,Low,Long,Excellent,Senior,0.2,74,1447.79,19.56472972972973,2,2,9,1,0,1,2
+C0287,Business,Hybrid,Intermediate,49.99,4,4.43,T0018,Cloud Computing,3,3.78,47,2286.86,48.65659574468086,Medium,Short,Good,Junior,0.2,47,2286.86,48.65659574468086,2,0,1,2,2,2,0
+C0288,Data Science,Live Online,Beginner,19.99,12,4.34,T0073,Web Development,10,4.22,62,1201.01,19.371129032258064,Low,Medium,Good,Mid,0.2,62,1201.01,19.371129032258064,1,1,4,1,1,2,1
+C0289,Data Science,Self-Paced Video,Intermediate,79.99,8,4.44,T0113,Finance,17,4.98,83,6542.889999999999,78.83,Medium,Short,Good,Senior,0.2,83,6542.889999999999,78.83,2,2,4,2,2,2,2
+C0290,Cybersecurity,Self-Paced Video,Beginner,29.99,4,4.3,T0029,JavaScript,1,3.9,56,1651.09,29.483749999999997,Low,Short,Good,Junior,0.2,56,1651.09,29.483749999999997,1,2,3,1,2,2,0
+C0291,Marketing,Self-Paced Video,Intermediate,49.99,10,4.45,T0077,UI/UX Design,12,3.64,54,2644.98,48.98111111111111,Medium,Medium,Good,Mid,0.2,54,2644.98,48.98111111111111,2,2,7,2,1,2,1
+C0292,Cloud & DevOps,Live Online,Beginner,99.99,25,4.17,T0059,Business Analytics,20,4.39,53,5200.4,98.12075471698112,High,Long,Good,Senior,0.2,53,5200.4,98.12075471698112,1,1,2,0,0,2,2
+C0293,Programming,Self-Paced Video,Intermediate,59.99,8,3.83,T0047,Finance,5,3.83,24,1406.3,58.59583333333333,Medium,Short,Average,Junior,0.2,24,1406.3,58.59583333333333,2,2,8,2,2,0,0
+C0294,Data Science,Live Online,Beginner,49.99,40,3.68,T0116,Artificial Intelligence,17,4.78,65,3202.09,49.26292307692308,Medium,Long,Average,Senior,0.2,65,3202.09,49.26292307692308,1,1,4,2,0,0,2
+C0295,Data Science,Self-Paced Video,Intermediate,39.99,6,3.6,T0017,Web Development,3,4.7,47,1842.14,39.19446808510639,Low,Short,Average,Junior,0.2,47,1842.14,39.19446808510639,2,2,4,1,2,0,0
+C0296,Business,Live Online,Beginner,39.99,50,3.89,T0109,Finance,2,4.45,50,1946.0400000000002,38.92080000000001,Low,Long,Average,Junior,0.2,50,1946.0400000000002,38.92080000000001,1,1,1,1,0,0,0
+C0297,Marketing,Self-Paced Video,Beginner,59.99,30,3.57,T0096,Artificial Intelligence,10,3.23,11,637.15,57.92272727272727,Medium,Long,Average,Mid,0.2,11,637.15,57.92272727272727,1,2,7,2,0,0,1
+C0298,Business,Self-Paced Video,Beginner,199.99,40,4.35,T0112,Cybersecurity,5,4.31,50,9776.11,195.5222,High,Long,Good,Junior,0.2,50,9776.11,195.5222,1,2,1,0,0,2,0
+C0299,Business,Hybrid,Intermediate,59.99,12,3.93,T0022,Business Analytics,7,4.42,33,1938.01,58.72757575757576,Medium,Medium,Average,Mid,1.0,33,1938.01,58.72757575757576,2,0,1,2,1,0,1
+C0300,Soft Skills,Live Online,Intermediate,49.99,20,4.74,T0068,Project Management,13,3.79,62,3009.87,48.546290322580646,Medium,Medium,Excellent,Senior,0.2,62,3009.87,48.546290322580646,2,1,9,2,1,1,2
+C0301,Business,Self-Paced Video,Beginner,79.99,50,3.61,T0069,Cybersecurity,7,4.54,46,3551.5,77.20652173913044,Medium,Long,Average,Mid,0.2,46,3551.5,77.20652173913044,1,2,1,2,0,0,1
+C0302,Design,Hybrid,Intermediate,49.99,50,3.84,T0037,Cybersecurity,8,4.39,43,2058.73,47.87744186046512,Medium,Long,Average,Mid,0.2,43,2058.73,47.87744186046512,2,0,5,2,0,0,1
+C0303,Cybersecurity,Self-Paced Video,Advanced,19.99,6,4.6,T0105,Finance,17,3.77,52,1032.11,19.84826923076923,Low,Short,Excellent,Senior,0.2,52,1032.11,19.84826923076923,0,2,3,1,2,1,2
+C0304,Business,Hybrid,Intermediate,49.99,30,4.4,T0049,Finance,14,4.81,76,3744.31,49.26723684210526,Medium,Long,Good,Senior,0.2,76,3744.31,49.26723684210526,2,0,1,2,0,2,2
+C0305,Marketing,Live Online,Beginner,149.99,30,3.6,T0013,SQL & Databases,11,4.34,36,5260.31,146.11972222222224,High,Long,Average,Mid,0.2,36,5260.31,146.11972222222224,1,1,7,0,0,0,1
+C0306,Finance,Self-Paced Video,Intermediate,29.99,10,4.82,T0034,Digital Marketing,5,4.86,84,2453.62,29.209761904761905,Low,Medium,Excellent,Junior,0.2,84,2453.62,29.209761904761905,2,2,6,1,1,1,0
+C0307,AI & ML,Self-Paced Video,Beginner,59.99,10,4.82,T0109,Finance,2,4.45,67,3934.82,58.728656716417916,Medium,Medium,Excellent,Junior,0.2,67,3934.82,58.728656716417916,1,2,0,2,1,1,0
+C0308,Data Science,Self-Paced Video,Beginner,29.99,15,4.0,T0086,Machine Learning,13,3.55,46,1338.87,29.10586956521739,Low,Medium,Average,Senior,0.2,46,1338.87,29.10586956521739,1,2,4,1,1,0,2
+C0309,Soft Skills,Self-Paced Video,Advanced,49.99,40,4.01,T0053,Web Development,15,3.35,26,1266.5900000000001,48.715,Medium,Long,Good,Senior,0.2,26,1266.5900000000001,48.715,0,2,9,2,0,2,2
+C0310,Design,Live Online,Beginner,19.99,40,4.98,T0087,Cloud Computing,9,4.5,83,1609.29,19.389036144578313,Low,Long,Excellent,Mid,0.2,83,1609.29,19.389036144578313,1,1,5,1,0,1,1
+C0311,Programming,Self-Paced Video,Intermediate,49.99,40,4.44,T0051,JavaScript,9,4.6,70,3407.59,48.679857142857145,Medium,Long,Good,Mid,0.7,70,3407.59,48.679857142857145,2,2,8,2,0,2,1
+C0312,Design,Self-Paced Video,Intermediate,79.99,15,4.3,T0003,Artificial Intelligence,15,3.63,44,3449.1499999999996,78.38977272727271,Medium,Medium,Good,Senior,0.2,44,3449.1499999999996,78.38977272727271,2,2,5,2,1,2,2
+C0313,AI & ML,Live Online,Intermediate,39.99,4,4.76,T0042,Project Management,5,3.37,53,2073.33,39.11943396226415,Low,Short,Excellent,Junior,0.2,53,2073.33,39.11943396226415,2,1,0,1,2,1,0
+C0314,Design,Hybrid,Intermediate,59.99,30,3.93,T0098,Machine Learning,24,3.97,56,3258.05,58.17946428571429,Medium,Long,Average,Senior,0.2,56,3258.05,58.17946428571429,2,0,5,2,0,0,2
+C0315,Programming,Self-Paced Video,Beginner,79.99,6,4.14,T0032,JavaScript,23,3.81,57,4439.09,77.87877192982457,Medium,Short,Good,Senior,0.7,57,4439.09,77.87877192982457,1,2,8,2,2,2,2
+C0316,Marketing,Self-Paced Video,Beginner,129.99,12,3.9,T0109,Finance,2,4.45,43,5533.0,128.67441860465115,High,Medium,Average,Junior,0.2,43,5533.0,128.67441860465115,1,2,7,0,1,0,0
+C0317,Programming,Self-Paced Video,Intermediate,29.99,30,4.68,T0051,JavaScript,9,4.6,77,2246.6099999999997,29.176753246753243,Low,Long,Excellent,Mid,0.7,77,2246.6099999999997,29.176753246753243,2,2,8,1,0,1,1
+C0318,Data Science,Self-Paced Video,Beginner,39.99,10,4.36,T0113,Finance,17,4.98,94,3682.92,39.18,Low,Medium,Good,Senior,0.2,94,3682.92,39.18,1,2,4,1,1,2,2
+C0319,Data Science,Hybrid,Beginner,29.99,50,4.49,T0085,Web Development,20,4.09,73,2131.7999999999997,29.202739726027392,Low,Long,Good,Senior,0.2,73,2131.7999999999997,29.202739726027392,1,0,4,1,0,2,2
+C0320,Data Science,Self-Paced Video,Beginner,199.99,8,3.88,T0046,Finance,1,3.81,15,2869.28,191.28533333333334,High,Short,Average,Junior,0.2,15,2869.28,191.28533333333334,1,2,4,0,2,0,0
+C0321,Data Science,Live Online,Beginner,129.99,20,3.83,T0108,Cloud Computing,7,4.89,54,6744.860000000001,124.90481481481483,High,Medium,Average,Mid,0.2,54,6744.860000000001,124.90481481481483,1,1,4,0,1,0,1
+C0322,Data Science,Self-Paced Video,Beginner,49.99,15,4.23,T0021,Digital Marketing,10,4.26,59,2894.55,49.06016949152543,Medium,Medium,Good,Mid,0.2,59,2894.55,49.06016949152543,1,2,4,2,1,2,1
+C0323,Marketing,Live Online,Beginner,99.99,25,4.61,T0044,JavaScript,14,4.82,76,7483.679999999999,98.46947368421051,High,Long,Excellent,Senior,0.2,76,7483.679999999999,98.46947368421051,1,1,7,0,0,1,2
+C0324,Programming,Live Online,Intermediate,49.99,8,4.29,T0011,Python Programming,8,4.51,49,2385.73,48.688367346938776,Medium,Short,Good,Mid,1.0,49,2385.73,48.688367346938776,2,1,8,2,2,2,1
+C0325,Business,Live Online,Intermediate,59.99,12,3.55,T0103,Finance,20,3.89,32,1893.0700000000002,59.158437500000005,Medium,Medium,Average,Senior,0.2,32,1893.0700000000002,59.158437500000005,2,1,1,2,1,0,2
+C0326,Soft Skills,Self-Paced Video,Advanced,19.99,40,4.8,T0068,Project Management,13,3.79,58,1134.99,19.568793103448275,Low,Long,Excellent,Senior,0.2,58,1134.99,19.568793103448275,0,2,9,1,0,1,2
+C0327,Design,Self-Paced Video,Beginner,79.99,10,3.6,T0115,Business Analytics,17,4.13,33,2579.62,78.17030303030303,Medium,Medium,Average,Senior,0.2,33,2579.62,78.17030303030303,1,2,5,2,1,0,2
+C0328,Cloud & DevOps,Self-Paced Video,Beginner,29.99,10,4.93,T0001,UI/UX Design,13,3.7,90,2644.72,29.385777777777776,Low,Medium,Excellent,Senior,0.2,90,2644.72,29.385777777777776,1,2,2,1,1,1,2
+C0329,Data Science,Hybrid,Beginner,99.99,10,3.54,T0092,Digital Marketing,9,4.89,48,4776.33,99.506875,High,Medium,Average,Mid,0.2,48,4776.33,99.506875,1,0,4,0,1,0,1
+C0330,Programming,Hybrid,Intermediate,79.99,40,4.54,T0063,Web Development,7,4.45,56,4402.57,78.61732142857143,Medium,Long,Excellent,Mid,0.7,56,4402.57,78.61732142857143,2,0,8,2,0,1,1
+C0331,Data Science,Live Online,Intermediate,59.99,25,3.62,T0024,Cloud Computing,7,4.12,27,1609.68,59.61777777777778,Medium,Long,Average,Mid,0.2,27,1609.68,59.61777777777778,2,1,4,2,0,0,1
+C0332,Data Science,Live Online,Beginner,19.99,15,4.87,T0099,Project Management,15,4.94,91,1779.3899999999999,19.553736263736262,Low,Medium,Excellent,Senior,0.2,91,1779.3899999999999,19.553736263736262,1,1,4,1,1,1,2
+C0333,Programming,Live Online,Advanced,39.99,8,4.2,T0013,SQL & Databases,11,4.34,61,2402.04,39.377704918032784,Low,Short,Good,Mid,0.2,61,2402.04,39.377704918032784,0,1,8,1,2,2,1
+C0334,Data Science,Self-Paced Video,Beginner,29.99,40,3.71,T0111,JavaScript,17,3.37,39,1150.6299999999999,29.50333333333333,Low,Long,Average,Senior,0.2,39,1150.6299999999999,29.50333333333333,1,2,4,1,0,0,2
+C0335,Data Science,Hybrid,Intermediate,39.99,12,4.01,T0098,Machine Learning,24,3.97,59,2313.0,39.20338983050848,Low,Medium,Good,Senior,0.2,59,2313.0,39.20338983050848,2,0,4,1,1,2,2
+C0336,Data Science,Self-Paced Video,Intermediate,19.99,15,3.75,T0011,Python Programming,8,4.51,40,784.4699999999999,19.611749999999997,Low,Medium,Average,Mid,0.2,40,784.4699999999999,19.611749999999997,2,2,4,1,1,0,1
+C0337,Design,Self-Paced Video,Advanced,129.99,12,3.76,T0100,JavaScript,22,4.93,37,4647.7300000000005,125.61432432432434,High,Medium,Average,Senior,0.2,37,4647.7300000000005,125.61432432432434,0,2,5,0,1,0,2
+C0338,Programming,Self-Paced Video,Intermediate,49.99,15,4.92,T0051,JavaScript,9,4.6,77,3784.15,49.144805194805194,Medium,Medium,Excellent,Mid,0.7,77,3784.15,49.144805194805194,2,2,8,2,1,1,1
+C0339,Business,Self-Paced Video,Advanced,39.99,25,4.17,T0017,Web Development,3,4.7,44,1710.18,38.86772727272727,Low,Long,Good,Junior,0.2,44,1710.18,38.86772727272727,0,2,1,1,0,2,0
+C0340,Design,Self-Paced Video,Beginner,39.99,20,4.68,T0099,Project Management,15,4.94,86,3348.2400000000002,38.93302325581396,Low,Medium,Excellent,Senior,0.2,86,3348.2400000000002,38.93302325581396,1,2,5,1,1,1,2
+C0341,Cloud & DevOps,Live Online,Advanced,49.99,12,4.46,T0082,Python Programming,7,4.63,53,2580.5,48.68867924528302,Medium,Medium,Good,Mid,0.2,53,2580.5,48.68867924528302,0,1,2,2,1,2,1
+C0342,Data Science,Self-Paced Video,Beginner,59.99,40,4.51,T0104,Web Development,17,4.73,74,4309.78,58.240270270270265,Medium,Long,Excellent,Senior,0.2,74,4309.78,58.240270270270265,1,2,4,2,0,1,2
+C0343,Cybersecurity,Live Online,Advanced,49.99,15,3.7,T0086,Machine Learning,13,3.55,14,673.8000000000001,48.12857142857143,Medium,Medium,Average,Senior,0.2,14,673.8000000000001,48.12857142857143,0,1,3,2,1,0,2
+C0344,Marketing,Self-Paced Video,Intermediate,129.99,10,3.85,T0024,Cloud Computing,7,4.12,32,4020.8900000000003,125.65281250000001,High,Medium,Average,Mid,0.2,32,4020.8900000000003,125.65281250000001,2,2,7,0,1,0,1
+C0345,Data Science,Self-Paced Video,Advanced,49.99,30,4.68,T0019,Cloud Computing,1,3.54,39,1879.71,48.19769230769231,Medium,Long,Excellent,Junior,0.2,39,1879.71,48.19769230769231,0,2,4,2,0,1,0
+C0346,Soft Skills,Self-Paced Video,Intermediate,199.99,10,4.96,T0037,Cybersecurity,8,4.39,66,12990.880000000001,196.83151515151516,High,Medium,Excellent,Mid,0.2,66,12990.880000000001,196.83151515151516,2,2,9,0,1,1,1
+C0347,Soft Skills,Self-Paced Video,Intermediate,99.99,4,3.89,T0103,Finance,20,3.89,32,3184.1299999999997,99.50406249999999,High,Short,Average,Senior,0.2,32,3184.1299999999997,99.50406249999999,2,2,9,0,2,0,2
+C0348,Data Science,Live Online,Intermediate,29.99,20,3.91,T0085,Web Development,20,4.09,55,1621.99,29.490727272727273,Low,Medium,Average,Senior,0.2,55,1621.99,29.490727272727273,2,1,4,1,1,0,2
+C0349,Programming,Self-Paced Video,Intermediate,129.99,20,4.21,T0008,Business Analytics,24,4.41,51,6495.21,127.35705882352941,High,Medium,Good,Senior,0.2,51,6495.21,127.35705882352941,2,2,8,0,1,2,2
+C0350,Finance,Live Online,Beginner,19.99,10,4.98,T0028,Machine Learning,2,4.44,85,1651.01,19.42364705882353,Low,Medium,Excellent,Junior,0.2,85,1651.01,19.42364705882353,1,1,6,1,1,1,0

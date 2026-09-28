@@ -1,0 +1,351 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating,TeacherID,Expertise,YearsOfExperience,TeacherRating
+C0001,Programming,Live Online,Intermediate,19.99,6,4.27,T0072,Machine Learning,2,4.38
+C0002,Finance,Self-Paced Video,Intermediate,29.99,8,4.59,T0087,Cloud Computing,9,4.5
+C0003,Finance,Self-Paced Video,Advanced,29.99,25,3.66,T0038,Data Science,22,4.67
+C0004,Finance,Self-Paced Video,Intermediate,99.99,40,3.84,T0006,Cloud Computing,7,4.97
+C0005,Soft Skills,Self-Paced Video,Beginner,29.99,15,4.55,T0086,Machine Learning,13,3.55
+C0006,Design,Live Online,Beginner,149.99,8,3.58,T0025,JavaScript,9,3.61
+C0007,Design,Self-Paced Video,Beginner,39.99,20,4.23,T0082,Python Programming,7,4.63
+C0008,Cybersecurity,Self-Paced Video,Intermediate,29.99,10,4.4,T0017,Web Development,3,4.7
+C0009,Marketing,Live Online,Beginner,79.99,30,4.4,T0061,UI/UX Design,5,3.49
+C0010,Cloud & DevOps,Self-Paced Video,Intermediate,59.99,12,3.53,T0012,UI/UX Design,24,3.86
+C0011,Cybersecurity,Self-Paced Video,Intermediate,49.99,8,3.98,T0006,Cloud Computing,7,4.97
+C0012,Soft Skills,Live Online,Beginner,49.99,6,4.45,T0090,Finance,6,4.36
+C0013,Business,Hybrid,Intermediate,59.99,50,3.72,T0027,Digital Marketing,12,3.51
+C0014,Business,Self-Paced Video,Beginner,29.99,6,4.54,T0008,Business Analytics,24,4.41
+C0015,Data Science,Self-Paced Video,Beginner,199.99,8,4.62,T0083,Finance,1,4.1
+C0016,Marketing,Self-Paced Video,Intermediate,149.99,6,4.97,T0106,Leadership,20,3.51
+C0017,Data Science,Self-Paced Video,Intermediate,59.99,10,3.81,T0065,JavaScript,15,3.6
+C0018,Design,Self-Paced Video,Intermediate,29.99,6,4.74,T0057,Python Programming,7,3.22
+C0019,Design,Self-Paced Video,Intermediate,59.99,40,4.28,T0093,Project Management,5,4.92
+C0020,Programming,Self-Paced Video,Beginner,19.99,30,4.06,T0109,Finance,2,4.45
+C0021,Marketing,Self-Paced Video,Advanced,19.99,6,3.68,T0113,Finance,17,4.98
+C0022,Data Science,Self-Paced Video,Intermediate,29.99,30,4.6,T0099,Project Management,15,4.94
+C0023,Data Science,Self-Paced Video,Intermediate,49.99,15,3.85,T0040,SQL & Databases,1,4.15
+C0024,Finance,Self-Paced Video,Beginner,99.99,4,4.06,T0014,SQL & Databases,19,4.34
+C0025,Business,Self-Paced Video,Intermediate,79.99,10,3.59,T0035,Artificial Intelligence,3,4.78
+C0026,Data Science,Self-Paced Video,Beginner,79.99,4,4.7,T0048,Leadership,23,4.51
+C0027,Design,Hybrid,Beginner,49.99,15,4.65,T0109,Finance,2,4.45
+C0028,Cybersecurity,Live Online,Advanced,39.99,10,4.6,T0084,Data Science,1,4.24
+C0029,Programming,Live Online,Beginner,39.99,8,3.95,T0056,Business Analytics,19,4.29
+C0030,Marketing,Live Online,Advanced,199.99,8,3.76,T0049,Finance,14,4.81
+C0031,Data Science,Self-Paced Video,Intermediate,19.99,30,4.46,T0013,SQL & Databases,11,4.34
+C0032,Data Science,Self-Paced Video,Beginner,99.99,15,4.24,T0061,UI/UX Design,5,3.49
+C0033,Design,Self-Paced Video,Intermediate,49.99,30,3.77,T0102,Project Management,9,3.73
+C0034,Design,Live Online,Advanced,49.99,12,4.53,T0049,Finance,14,4.81
+C0035,Marketing,Live Online,Intermediate,79.99,6,4.99,T0046,Finance,1,3.81
+C0036,Cloud & DevOps,Self-Paced Video,Advanced,49.99,25,4.62,T0113,Finance,17,4.98
+C0037,AI & ML,Self-Paced Video,Intermediate,99.99,12,4.61,T0062,Machine Learning,23,4.19
+C0038,Design,Self-Paced Video,Intermediate,129.99,6,4.93,T0008,Business Analytics,24,4.41
+C0039,Programming,Self-Paced Video,Advanced,49.99,10,3.8,T0043,JavaScript,15,4.81
+C0040,Cybersecurity,Live Online,Beginner,39.99,30,4.35,T0020,Python Programming,5,3.27
+C0041,Programming,Live Online,Intermediate,49.99,10,4.97,T0097,Leadership,12,4.87
+C0042,Business,Self-Paced Video,Beginner,129.99,10,3.75,T0090,Finance,6,4.36
+C0043,Data Science,Hybrid,Advanced,29.99,6,4.55,T0039,SQL & Databases,3,4.2
+C0044,Data Science,Live Online,Advanced,59.99,15,4.38,T0085,Web Development,20,4.09
+C0045,AI & ML,Self-Paced Video,Beginner,59.99,50,4.38,T0117,Machine Learning,2,4.53
+C0046,Finance,Self-Paced Video,Intermediate,79.99,6,4.55,T0049,Finance,14,4.81
+C0047,Cloud & DevOps,Self-Paced Video,Advanced,29.99,20,4.89,T0064,Cybersecurity,13,4.37
+C0048,Business,Self-Paced Video,Beginner,59.99,8,4.67,T0062,Machine Learning,23,4.19
+C0049,Data Science,Self-Paced Video,Intermediate,129.99,8,3.58,T0106,Leadership,20,3.51
+C0050,Data Science,Self-Paced Video,Advanced,29.99,12,4.78,T0107,Leadership,12,4.2
+C0051,Programming,Self-Paced Video,Beginner,29.99,8,3.84,T0054,Cybersecurity,10,3.49
+C0052,Design,Self-Paced Video,Intermediate,149.99,6,4.07,T0105,Finance,17,3.77
+C0053,Cloud & DevOps,Hybrid,Beginner,29.99,40,4.19,T0009,UI/UX Design,1,4.57
+C0054,Cloud & DevOps,Self-Paced Video,Advanced,99.99,30,4.22,T0088,Web Development,3,3.71
+C0055,Programming,Self-Paced Video,Advanced,49.99,6,4.15,T0037,Cybersecurity,8,4.39
+C0056,AI & ML,Self-Paced Video,Advanced,29.99,50,4.91,T0049,Finance,14,4.81
+C0057,Cybersecurity,Hybrid,Intermediate,99.99,6,4.56,T0041,Leadership,3,3.64
+C0058,Marketing,Self-Paced Video,Advanced,49.99,25,4.45,T0017,Web Development,3,4.7
+C0059,Marketing,Self-Paced Video,Advanced,49.99,30,3.57,T0088,Web Development,3,3.71
+C0060,Business,Hybrid,Beginner,39.99,20,4.86,T0021,Digital Marketing,10,4.26
+C0061,Programming,Hybrid,Advanced,49.99,8,4.86,T0051,JavaScript,9,4.6
+C0062,Business,Live Online,Beginner,29.99,30,4.67,T0059,Business Analytics,20,4.39
+C0063,Cybersecurity,Self-Paced Video,Intermediate,39.99,8,3.51,T0039,SQL & Databases,3,4.2
+C0064,Data Science,Self-Paced Video,Beginner,149.99,12,3.59,T0055,Python Programming,13,4.82
+C0065,Data Science,Live Online,Beginner,29.99,30,3.84,T0041,Leadership,3,3.64
+C0066,Data Science,Hybrid,Beginner,59.99,8,3.7,T0039,SQL & Databases,3,4.2
+C0067,Data Science,Live Online,Intermediate,39.99,20,4.1,T0013,SQL & Databases,11,4.34
+C0068,Finance,Live Online,Beginner,79.99,4,4.88,T0064,Cybersecurity,13,4.37
+C0069,Cloud & DevOps,Self-Paced Video,Intermediate,29.99,10,4.21,T0011,Python Programming,8,4.51
+C0070,Design,Live Online,Beginner,149.99,10,3.52,T0110,UI/UX Design,3,4.23
+C0071,Data Science,Self-Paced Video,Beginner,49.99,20,3.92,T0019,Cloud Computing,1,3.54
+C0072,Design,Self-Paced Video,Intermediate,29.99,25,3.57,T0011,Python Programming,8,4.51
+C0073,Design,Self-Paced Video,Intermediate,19.99,4,3.55,T0077,UI/UX Design,12,3.64
+C0074,Data Science,Self-Paced Video,Beginner,29.99,12,3.91,T0046,Finance,1,3.81
+C0075,Business,Self-Paced Video,Intermediate,49.99,20,3.91,T0045,Leadership,3,4.34
+C0076,Business,Self-Paced Video,Advanced,39.99,10,4.68,T0001,UI/UX Design,13,3.7
+C0077,Marketing,Live Online,Intermediate,99.99,10,4.96,T0040,SQL & Databases,1,4.15
+C0078,Marketing,Self-Paced Video,Beginner,49.99,10,4.06,T0108,Cloud Computing,7,4.89
+C0079,Data Science,Live Online,Beginner,29.99,15,4.14,T0019,Cloud Computing,1,3.54
+C0080,Business,Self-Paced Video,Advanced,59.99,20,4.77,T0076,JavaScript,6,3.68
+C0081,Marketing,Self-Paced Video,Beginner,59.99,6,3.9,T0072,Machine Learning,2,4.38
+C0082,Design,Self-Paced Video,Advanced,29.99,12,3.73,T0072,Machine Learning,2,4.38
+C0083,Finance,Self-Paced Video,Intermediate,29.99,10,4.78,T0061,UI/UX Design,5,3.49
+C0084,Cloud & DevOps,Self-Paced Video,Advanced,19.99,8,3.57,T0117,Machine Learning,2,4.53
+C0085,Data Science,Self-Paced Video,Intermediate,79.99,20,4.43,T0109,Finance,2,4.45
+C0086,Data Science,Self-Paced Video,Advanced,59.99,50,4.34,T0012,UI/UX Design,24,3.86
+C0087,Marketing,Hybrid,Beginner,49.99,15,4.02,T0061,UI/UX Design,5,3.49
+C0088,Data Science,Self-Paced Video,Intermediate,99.99,20,3.97,T0112,Cybersecurity,5,4.31
+C0089,Marketing,Live Online,Intermediate,79.99,12,4.66,T0033,Project Management,24,3.4
+C0090,AI & ML,Self-Paced Video,Intermediate,49.99,15,3.63,T0045,Leadership,3,4.34
+C0091,Marketing,Live Online,Intermediate,99.99,12,3.86,T0090,Finance,6,4.36
+C0092,Business,Live Online,Advanced,29.99,20,4.6,T0103,Finance,20,3.89
+C0093,Marketing,Live Online,Advanced,19.99,6,4.32,T0092,Digital Marketing,9,4.89
+C0094,Design,Self-Paced Video,Intermediate,29.99,50,3.69,T0069,Cybersecurity,7,4.54
+C0095,Design,Self-Paced Video,Intermediate,19.99,12,4.82,T0008,Business Analytics,24,4.41
+C0096,AI & ML,Self-Paced Video,Intermediate,49.99,15,4.09,T0025,JavaScript,9,3.61
+C0097,Business,Hybrid,Intermediate,129.99,15,4.74,T0091,Digital Marketing,8,3.52
+C0098,AI & ML,Live Online,Beginner,19.99,12,4.68,T0046,Finance,1,3.81
+C0099,Soft Skills,Hybrid,Beginner,29.99,40,4.44,T0087,Cloud Computing,9,4.5
+C0100,Programming,Self-Paced Video,Beginner,49.99,20,4.24,T0030,Business Analytics,16,4.89
+C0101,Data Science,Live Online,Beginner,129.99,40,4.97,T0109,Finance,2,4.45
+C0102,Data Science,Hybrid,Beginner,39.99,25,3.72,T0047,Finance,5,3.83
+C0103,Data Science,Self-Paced Video,Beginner,49.99,20,4.59,T0087,Cloud Computing,9,4.5
+C0104,Data Science,Self-Paced Video,Beginner,19.99,12,3.79,T0049,Finance,14,4.81
+C0105,Cloud & DevOps,Live Online,Beginner,29.99,4,4.01,T0047,Finance,5,3.83
+C0106,Data Science,Live Online,Advanced,199.99,12,3.96,T0084,Data Science,1,4.24
+C0107,Programming,Live Online,Intermediate,149.99,40,4.92,T0082,Python Programming,7,4.63
+C0108,Finance,Self-Paced Video,Beginner,19.99,6,4.95,T0018,Cloud Computing,3,3.78
+C0109,Data Science,Live Online,Intermediate,149.99,12,3.77,T0066,Finance,11,4.48
+C0110,Finance,Self-Paced Video,Beginner,59.99,12,3.53,T0068,Project Management,13,3.79
+C0111,Programming,Self-Paced Video,Advanced,99.99,6,4.58,T0094,Web Development,1,4.85
+C0112,Data Science,Self-Paced Video,Intermediate,49.99,12,4.13,T0033,Project Management,24,3.4
+C0113,Cloud & DevOps,Live Online,Beginner,49.99,10,3.63,T0036,JavaScript,12,3.66
+C0114,Marketing,Live Online,Intermediate,49.99,4,4.53,T0082,Python Programming,7,4.63
+C0115,Soft Skills,Self-Paced Video,Advanced,59.99,8,4.32,T0101,Machine Learning,24,4.74
+C0116,Cybersecurity,Self-Paced Video,Advanced,29.99,4,4.97,T0019,Cloud Computing,1,3.54
+C0117,Finance,Hybrid,Intermediate,19.99,50,3.84,T0111,JavaScript,17,3.37
+C0118,Programming,Self-Paced Video,Intermediate,39.99,12,4.11,T0028,Machine Learning,2,4.44
+C0119,Data Science,Live Online,Beginner,59.99,10,4.31,T0040,SQL & Databases,1,4.15
+C0120,Cybersecurity,Self-Paced Video,Advanced,29.99,20,4.69,T0084,Data Science,1,4.24
+C0121,Finance,Self-Paced Video,Beginner,59.99,12,4.32,T0113,Finance,17,4.98
+C0122,AI & ML,Self-Paced Video,Advanced,149.99,40,4.42,T0097,Leadership,12,4.87
+C0123,Business,Self-Paced Video,Intermediate,19.99,10,3.84,T0076,JavaScript,6,3.68
+C0124,Business,Live Online,Intermediate,59.99,6,4.77,T0115,Business Analytics,17,4.13
+C0125,Cybersecurity,Self-Paced Video,Intermediate,49.99,10,4.14,T0015,Cloud Computing,17,4.16
+C0126,Business,Self-Paced Video,Beginner,99.99,6,3.71,T0041,Leadership,3,3.64
+C0127,Soft Skills,Hybrid,Beginner,29.99,25,4.5,T0039,SQL & Databases,3,4.2
+C0128,Finance,Self-Paced Video,Beginner,59.99,8,3.82,T0002,Web Development,9,4.83
+C0129,Business,Self-Paced Video,Beginner,99.99,30,3.65,T0063,Web Development,7,4.45
+C0130,Cybersecurity,Hybrid,Intermediate,129.99,10,4.79,T0029,JavaScript,1,3.9
+C0131,Cybersecurity,Live Online,Beginner,59.99,15,4.19,T0105,Finance,17,3.77
+C0132,Data Science,Self-Paced Video,Beginner,49.99,40,4.62,T0074,JavaScript,13,3.37
+C0133,Soft Skills,Hybrid,Advanced,59.99,12,3.94,T0066,Finance,11,4.48
+C0134,Design,Live Online,Advanced,99.99,40,4.68,T0051,JavaScript,9,4.6
+C0135,Finance,Self-Paced Video,Advanced,49.99,4,3.67,T0075,Leadership,21,3.86
+C0136,Programming,Self-Paced Video,Advanced,19.99,30,4.03,T0077,UI/UX Design,12,3.64
+C0137,Soft Skills,Live Online,Beginner,129.99,4,4.97,T0010,Project Management,12,3.63
+C0138,Business,Live Online,Beginner,59.99,25,4.69,T0014,SQL & Databases,19,4.34
+C0139,Data Science,Self-Paced Video,Intermediate,59.99,30,4.25,T0082,Python Programming,7,4.63
+C0140,Soft Skills,Hybrid,Intermediate,29.99,30,4.01,T0051,JavaScript,9,4.6
+C0141,Data Science,Live Online,Beginner,59.99,4,4.81,T0118,Leadership,2,4.45
+C0142,Programming,Self-Paced Video,Advanced,39.99,6,4.32,T0073,Web Development,10,4.22
+C0143,AI & ML,Self-Paced Video,Beginner,59.99,4,4.64,T0039,SQL & Databases,3,4.2
+C0144,AI & ML,Self-Paced Video,Beginner,19.99,40,4.63,T0028,Machine Learning,2,4.44
+C0145,Marketing,Live Online,Intermediate,59.99,6,3.53,T0003,Artificial Intelligence,15,3.63
+C0146,Marketing,Self-Paced Video,Intermediate,199.99,40,3.69,T0084,Data Science,1,4.24
+C0147,Business,Live Online,Intermediate,19.99,25,4.49,T0070,Project Management,19,4.37
+C0148,Programming,Live Online,Beginner,149.99,12,3.74,T0027,Digital Marketing,12,3.51
+C0149,Programming,Hybrid,Advanced,39.99,50,3.88,T0117,Machine Learning,2,4.53
+C0150,Cloud & DevOps,Self-Paced Video,Beginner,99.99,20,4.92,T0002,Web Development,9,4.83
+C0151,Cybersecurity,Live Online,Beginner,79.99,6,4.34,T0093,Project Management,5,4.92
+C0152,Cybersecurity,Self-Paced Video,Advanced,49.99,25,4.63,T0038,Data Science,22,4.67
+C0153,Cybersecurity,Live Online,Advanced,79.99,50,4.34,T0003,Artificial Intelligence,15,3.63
+C0154,Data Science,Self-Paced Video,Advanced,99.99,15,4.33,T0016,Business Analytics,8,3.36
+C0155,Design,Self-Paced Video,Advanced,39.99,25,3.64,T0094,Web Development,1,4.85
+C0156,Data Science,Live Online,Intermediate,39.99,4,4.02,T0040,SQL & Databases,1,4.15
+C0157,Design,Self-Paced Video,Intermediate,59.99,4,3.92,T0002,Web Development,9,4.83
+C0158,Business,Self-Paced Video,Beginner,79.99,20,4.09,T0081,Leadership,23,4.34
+C0159,Soft Skills,Live Online,Intermediate,79.99,25,4.7,T0041,Leadership,3,3.64
+C0160,Business,Live Online,Beginner,79.99,8,4.06,T0012,UI/UX Design,24,3.86
+C0161,Data Science,Live Online,Beginner,49.99,12,4.18,T0035,Artificial Intelligence,3,4.78
+C0162,Data Science,Live Online,Intermediate,79.99,4,4.1,T0107,Leadership,12,4.2
+C0163,Cybersecurity,Self-Paced Video,Intermediate,29.99,20,3.64,T0065,JavaScript,15,3.6
+C0164,Marketing,Self-Paced Video,Beginner,49.99,12,4.16,T0055,Python Programming,13,4.82
+C0165,Data Science,Self-Paced Video,Beginner,19.99,25,3.79,T0045,Leadership,3,4.34
+C0166,Data Science,Self-Paced Video,Intermediate,39.99,25,3.78,T0079,Artificial Intelligence,20,3.91
+C0167,Cloud & DevOps,Hybrid,Beginner,39.99,30,3.64,T0090,Finance,6,4.36
+C0168,Data Science,Live Online,Advanced,39.99,20,4.04,T0101,Machine Learning,24,4.74
+C0169,Finance,Self-Paced Video,Intermediate,59.99,50,4.64,T0085,Web Development,20,4.09
+C0170,Cloud & DevOps,Self-Paced Video,Intermediate,39.99,4,3.91,T0062,Machine Learning,23,4.19
+C0171,Data Science,Hybrid,Intermediate,49.99,8,3.97,T0049,Finance,14,4.81
+C0172,Data Science,Self-Paced Video,Advanced,29.99,25,4.46,T0095,Digital Marketing,19,3.87
+C0173,AI & ML,Live Online,Beginner,39.99,8,3.79,T0025,JavaScript,9,3.61
+C0174,Business,Self-Paced Video,Intermediate,29.99,25,4.85,T0023,Machine Learning,9,3.23
+C0175,Business,Live Online,Intermediate,19.99,4,4.28,T0024,Cloud Computing,7,4.12
+C0176,Finance,Self-Paced Video,Beginner,59.99,12,4.17,T0038,Data Science,22,4.67
+C0177,AI & ML,Hybrid,Advanced,59.99,10,4.34,T0028,Machine Learning,2,4.44
+C0178,AI & ML,Hybrid,Intermediate,59.99,12,3.75,T0021,Digital Marketing,10,4.26
+C0179,Cybersecurity,Live Online,Intermediate,49.99,25,4.42,T0054,Cybersecurity,10,3.49
+C0180,Business,Live Online,Advanced,39.99,40,4.04,T0107,Leadership,12,4.2
+C0181,Data Science,Hybrid,Advanced,99.99,10,4.85,T0018,Cloud Computing,3,3.78
+C0182,Cybersecurity,Live Online,Intermediate,49.99,50,3.75,T0036,JavaScript,12,3.66
+C0183,Marketing,Self-Paced Video,Advanced,49.99,10,4.26,T0099,Project Management,15,4.94
+C0184,Business,Live Online,Intermediate,19.99,8,4.4,T0045,Leadership,3,4.34
+C0185,Soft Skills,Live Online,Intermediate,39.99,20,3.55,T0119,Business Analytics,22,4.46
+C0186,Data Science,Self-Paced Video,Intermediate,39.99,8,4.05,T0073,Web Development,10,4.22
+C0187,Design,Live Online,Intermediate,39.99,8,4.6,T0053,Web Development,15,3.35
+C0188,Data Science,Hybrid,Beginner,49.99,50,4.73,T0102,Project Management,9,3.73
+C0189,Design,Hybrid,Advanced,49.99,40,3.97,T0030,Business Analytics,16,4.89
+C0190,Data Science,Self-Paced Video,Advanced,59.99,12,4.7,T0060,Cybersecurity,4,3.21
+C0191,Data Science,Self-Paced Video,Beginner,79.99,12,4.95,T0108,Cloud Computing,7,4.89
+C0192,Data Science,Hybrid,Advanced,79.99,15,4.79,T0098,Machine Learning,24,3.97
+C0193,Marketing,Live Online,Beginner,59.99,25,3.68,T0032,JavaScript,23,3.81
+C0194,Cybersecurity,Self-Paced Video,Beginner,149.99,40,4.61,T0067,Machine Learning,4,3.63
+C0195,Marketing,Hybrid,Intermediate,19.99,15,3.98,T0067,Machine Learning,4,3.63
+C0196,AI & ML,Hybrid,Beginner,29.99,4,4.98,T0028,Machine Learning,2,4.44
+C0197,Business,Self-Paced Video,Advanced,19.99,25,4.23,T0044,JavaScript,14,4.82
+C0198,Programming,Live Online,Advanced,59.99,25,3.68,T0079,Artificial Intelligence,20,3.91
+C0199,Finance,Self-Paced Video,Intermediate,99.99,30,4.59,T0041,Leadership,3,3.64
+C0200,Programming,Self-Paced Video,Beginner,29.99,30,3.98,T0063,Web Development,7,4.45
+C0201,AI & ML,Self-Paced Video,Beginner,129.99,6,5.0,T0023,Machine Learning,9,3.23
+C0202,Data Science,Live Online,Intermediate,19.99,6,4.97,T0104,Web Development,17,4.73
+C0203,AI & ML,Self-Paced Video,Advanced,129.99,8,4.48,T0075,Leadership,21,3.86
+C0204,Data Science,Self-Paced Video,Intermediate,39.99,4,3.69,T0048,Leadership,23,4.51
+C0205,Soft Skills,Self-Paced Video,Beginner,19.99,10,4.53,T0032,JavaScript,23,3.81
+C0206,Design,Self-Paced Video,Intermediate,49.99,10,3.64,T0057,Python Programming,7,3.22
+C0207,AI & ML,Hybrid,Intermediate,29.99,30,3.54,T0118,Leadership,2,4.45
+C0208,Data Science,Self-Paced Video,Intermediate,39.99,30,4.73,T0100,JavaScript,22,4.93
+C0209,Marketing,Self-Paced Video,Beginner,39.99,30,3.81,T0033,Project Management,24,3.4
+C0210,AI & ML,Live Online,Intermediate,79.99,40,4.07,T0024,Cloud Computing,7,4.12
+C0211,Design,Self-Paced Video,Intermediate,49.99,20,4.96,T0039,SQL & Databases,3,4.2
+C0212,Marketing,Self-Paced Video,Advanced,39.99,6,4.01,T0034,Digital Marketing,5,4.86
+C0213,Cloud & DevOps,Self-Paced Video,Beginner,59.99,40,3.94,T0056,Business Analytics,19,4.29
+C0214,Design,Self-Paced Video,Intermediate,59.99,12,4.88,T0028,Machine Learning,2,4.44
+C0215,Marketing,Self-Paced Video,Advanced,39.99,10,3.67,T0037,Cybersecurity,8,4.39
+C0216,Marketing,Self-Paced Video,Beginner,39.99,50,4.64,T0007,Artificial Intelligence,9,3.64
+C0217,Soft Skills,Self-Paced Video,Advanced,29.99,25,4.98,T0068,Project Management,13,3.79
+C0218,Data Science,Hybrid,Intermediate,29.99,6,4.85,T0037,Cybersecurity,8,4.39
+C0219,Programming,Self-Paced Video,Beginner,59.99,15,4.48,T0056,Business Analytics,19,4.29
+C0220,AI & ML,Live Online,Beginner,29.99,12,3.97,T0065,JavaScript,15,3.6
+C0221,Soft Skills,Live Online,Intermediate,49.99,6,3.88,T0065,JavaScript,15,3.6
+C0222,Design,Self-Paced Video,Beginner,59.99,50,4.73,T0047,Finance,5,3.83
+C0223,Marketing,Live Online,Intermediate,19.99,40,4.82,T0020,Python Programming,5,3.27
+C0224,Programming,Self-Paced Video,Beginner,49.99,4,4.29,T0019,Cloud Computing,1,3.54
+C0225,Programming,Hybrid,Intermediate,29.99,25,3.87,T0029,JavaScript,1,3.9
+C0226,Design,Self-Paced Video,Beginner,149.99,6,3.67,T0074,JavaScript,13,3.37
+C0227,Business,Self-Paced Video,Advanced,49.99,20,3.63,T0060,Cybersecurity,4,3.21
+C0228,Marketing,Self-Paced Video,Advanced,79.99,30,4.58,T0018,Cloud Computing,3,3.78
+C0229,Data Science,Hybrid,Advanced,49.99,30,4.13,T0092,Digital Marketing,9,4.89
+C0230,AI & ML,Self-Paced Video,Intermediate,19.99,25,4.86,T0035,Artificial Intelligence,3,4.78
+C0231,AI & ML,Live Online,Beginner,59.99,50,4.61,T0043,JavaScript,15,4.81
+C0232,Cloud & DevOps,Self-Paced Video,Intermediate,149.99,40,3.79,T0111,JavaScript,17,3.37
+C0233,Design,Live Online,Beginner,59.99,30,4.42,T0095,Digital Marketing,19,3.87
+C0234,Programming,Self-Paced Video,Beginner,79.99,6,4.15,T0091,Digital Marketing,8,3.52
+C0235,Finance,Hybrid,Beginner,99.99,15,4.37,T0011,Python Programming,8,4.51
+C0236,Cloud & DevOps,Self-Paced Video,Intermediate,29.99,10,4.61,T0049,Finance,14,4.81
+C0237,Data Science,Self-Paced Video,Intermediate,29.99,10,4.71,T0113,Finance,17,4.98
+C0238,Soft Skills,Self-Paced Video,Intermediate,59.99,12,4.77,T0038,Data Science,22,4.67
+C0239,Finance,Self-Paced Video,Intermediate,39.99,8,3.88,T0064,Cybersecurity,13,4.37
+C0240,AI & ML,Live Online,Beginner,99.99,4,3.55,T0069,Cybersecurity,7,4.54
+C0241,Cloud & DevOps,Self-Paced Video,Advanced,129.99,25,4.61,T0008,Business Analytics,24,4.41
+C0242,Marketing,Live Online,Intermediate,39.99,12,3.66,T0034,Digital Marketing,5,4.86
+C0243,Business,Self-Paced Video,Intermediate,29.99,8,3.97,T0048,Leadership,23,4.51
+C0244,Soft Skills,Self-Paced Video,Beginner,79.99,40,3.51,T0116,Artificial Intelligence,17,4.78
+C0245,Finance,Self-Paced Video,Intermediate,39.99,20,4.52,T0056,Business Analytics,19,4.29
+C0246,Data Science,Self-Paced Video,Intermediate,99.99,20,3.75,T0076,JavaScript,6,3.68
+C0247,Data Science,Live Online,Beginner,49.99,4,4.48,T0102,Project Management,9,3.73
+C0248,Business,Self-Paced Video,Beginner,59.99,30,4.99,T0065,JavaScript,15,3.6
+C0249,Finance,Self-Paced Video,Intermediate,19.99,6,3.61,T0031,Data Science,23,3.45
+C0250,AI & ML,Hybrid,Intermediate,59.99,12,3.62,T0004,Leadership,13,3.46
+C0251,Data Science,Hybrid,Beginner,49.99,12,4.01,T0113,Finance,17,4.98
+C0252,Marketing,Self-Paced Video,Advanced,49.99,25,4.8,T0109,Finance,2,4.45
+C0253,Business,Self-Paced Video,Beginner,29.99,25,3.82,T0050,Python Programming,7,4.8
+C0254,AI & ML,Live Online,Intermediate,79.99,20,4.04,T0069,Cybersecurity,7,4.54
+C0255,Finance,Self-Paced Video,Advanced,99.99,20,3.6,T0030,Business Analytics,16,4.89
+C0256,Finance,Self-Paced Video,Intermediate,29.99,50,4.64,T0120,Cloud Computing,23,3.85
+C0257,Design,Self-Paced Video,Intermediate,19.99,15,4.11,T0088,Web Development,3,3.71
+C0258,Business,Live Online,Beginner,19.99,15,4.64,T0059,Business Analytics,20,4.39
+C0259,Programming,Live Online,Beginner,59.99,50,4.86,T0067,Machine Learning,4,3.63
+C0260,Data Science,Self-Paced Video,Advanced,59.99,30,3.85,T0075,Leadership,21,3.86
+C0261,Finance,Self-Paced Video,Intermediate,49.99,15,4.71,T0045,Leadership,3,4.34
+C0262,Finance,Self-Paced Video,Advanced,29.99,6,3.59,T0004,Leadership,13,3.46
+C0263,AI & ML,Live Online,Beginner,39.99,6,4.85,T0026,Finance,8,4.36
+C0264,AI & ML,Self-Paced Video,Beginner,49.99,12,4.48,T0027,Digital Marketing,12,3.51
+C0265,Marketing,Self-Paced Video,Beginner,49.99,10,4.81,T0046,Finance,1,3.81
+C0266,Cybersecurity,Live Online,Intermediate,199.99,50,3.5,T0118,Leadership,2,4.45
+C0267,AI & ML,Self-Paced Video,Beginner,29.99,6,3.75,T0107,Leadership,12,4.2
+C0268,Finance,Live Online,Advanced,59.99,8,4.08,T0064,Cybersecurity,13,4.37
+C0269,Programming,Self-Paced Video,Intermediate,39.99,20,4.07,T0091,Digital Marketing,8,3.52
+C0270,Design,Self-Paced Video,Advanced,49.99,25,3.84,T0106,Leadership,20,3.51
+C0271,Data Science,Self-Paced Video,Beginner,59.99,15,4.07,T0051,JavaScript,9,4.6
+C0272,AI & ML,Live Online,Advanced,59.99,50,3.69,T0050,Python Programming,7,4.8
+C0273,Marketing,Hybrid,Intermediate,199.99,12,4.12,T0006,Cloud Computing,7,4.97
+C0274,Programming,Live Online,Intermediate,29.99,4,4.7,T0059,Business Analytics,20,4.39
+C0275,Cloud & DevOps,Self-Paced Video,Advanced,19.99,25,4.22,T0015,Cloud Computing,17,4.16
+C0276,Marketing,Live Online,Intermediate,79.99,8,3.53,T0117,Machine Learning,2,4.53
+C0277,Business,Self-Paced Video,Intermediate,49.99,15,4.13,T0030,Business Analytics,16,4.89
+C0278,Data Science,Self-Paced Video,Beginner,39.99,8,3.54,T0042,Project Management,5,3.37
+C0279,Cloud & DevOps,Hybrid,Beginner,19.99,20,4.95,T0101,Machine Learning,24,4.74
+C0280,Design,Self-Paced Video,Advanced,19.99,20,3.69,T0037,Cybersecurity,8,4.39
+C0281,Cybersecurity,Self-Paced Video,Intermediate,99.99,30,4.56,T0042,Project Management,5,3.37
+C0282,Design,Self-Paced Video,Intermediate,29.99,12,4.96,T0101,Machine Learning,24,4.74
+C0283,Finance,Self-Paced Video,Intermediate,39.99,25,4.74,T0035,Artificial Intelligence,3,4.78
+C0284,Marketing,Self-Paced Video,Beginner,29.99,40,4.55,T0087,Cloud Computing,9,4.5
+C0285,Marketing,Live Online,Beginner,39.99,40,4.76,T0006,Cloud Computing,7,4.97
+C0286,Soft Skills,Self-Paced Video,Intermediate,19.99,25,4.97,T0068,Project Management,13,3.79
+C0287,Business,Hybrid,Intermediate,49.99,4,4.43,T0018,Cloud Computing,3,3.78
+C0288,Data Science,Live Online,Beginner,19.99,12,4.34,T0073,Web Development,10,4.22
+C0289,Data Science,Self-Paced Video,Intermediate,79.99,8,4.44,T0113,Finance,17,4.98
+C0290,Cybersecurity,Self-Paced Video,Beginner,29.99,4,4.3,T0029,JavaScript,1,3.9
+C0291,Marketing,Self-Paced Video,Intermediate,49.99,10,4.45,T0077,UI/UX Design,12,3.64
+C0292,Cloud & DevOps,Live Online,Beginner,99.99,25,4.17,T0059,Business Analytics,20,4.39
+C0293,Programming,Self-Paced Video,Intermediate,59.99,8,3.83,T0047,Finance,5,3.83
+C0294,Data Science,Live Online,Beginner,49.99,40,3.68,T0116,Artificial Intelligence,17,4.78
+C0295,Data Science,Self-Paced Video,Intermediate,39.99,6,3.6,T0017,Web Development,3,4.7
+C0296,Business,Live Online,Beginner,39.99,50,3.89,T0109,Finance,2,4.45
+C0297,Marketing,Self-Paced Video,Beginner,59.99,30,3.57,T0096,Artificial Intelligence,10,3.23
+C0298,Business,Self-Paced Video,Beginner,199.99,40,4.35,T0112,Cybersecurity,5,4.31
+C0299,Business,Hybrid,Intermediate,59.99,12,3.93,T0022,Business Analytics,7,4.42
+C0300,Soft Skills,Live Online,Intermediate,49.99,20,4.74,T0068,Project Management,13,3.79
+C0301,Business,Self-Paced Video,Beginner,79.99,50,3.61,T0069,Cybersecurity,7,4.54
+C0302,Design,Hybrid,Intermediate,49.99,50,3.84,T0037,Cybersecurity,8,4.39
+C0303,Cybersecurity,Self-Paced Video,Advanced,19.99,6,4.6,T0105,Finance,17,3.77
+C0304,Business,Hybrid,Intermediate,49.99,30,4.4,T0049,Finance,14,4.81
+C0305,Marketing,Live Online,Beginner,149.99,30,3.6,T0013,SQL & Databases,11,4.34
+C0306,Finance,Self-Paced Video,Intermediate,29.99,10,4.82,T0034,Digital Marketing,5,4.86
+C0307,AI & ML,Self-Paced Video,Beginner,59.99,10,4.82,T0109,Finance,2,4.45
+C0308,Data Science,Self-Paced Video,Beginner,29.99,15,4.0,T0086,Machine Learning,13,3.55
+C0309,Soft Skills,Self-Paced Video,Advanced,49.99,40,4.01,T0053,Web Development,15,3.35
+C0310,Design,Live Online,Beginner,19.99,40,4.98,T0087,Cloud Computing,9,4.5
+C0311,Programming,Self-Paced Video,Intermediate,49.99,40,4.44,T0051,JavaScript,9,4.6
+C0312,Design,Self-Paced Video,Intermediate,79.99,15,4.3,T0003,Artificial Intelligence,15,3.63
+C0313,AI & ML,Live Online,Intermediate,39.99,4,4.76,T0042,Project Management,5,3.37
+C0314,Design,Hybrid,Intermediate,59.99,30,3.93,T0098,Machine Learning,24,3.97
+C0315,Programming,Self-Paced Video,Beginner,79.99,6,4.14,T0032,JavaScript,23,3.81
+C0316,Marketing,Self-Paced Video,Beginner,129.99,12,3.9,T0109,Finance,2,4.45
+C0317,Programming,Self-Paced Video,Intermediate,29.99,30,4.68,T0051,JavaScript,9,4.6
+C0318,Data Science,Self-Paced Video,Beginner,39.99,10,4.36,T0113,Finance,17,4.98
+C0319,Data Science,Hybrid,Beginner,29.99,50,4.49,T0085,Web Development,20,4.09
+C0320,Data Science,Self-Paced Video,Beginner,199.99,8,3.88,T0046,Finance,1,3.81
+C0321,Data Science,Live Online,Beginner,129.99,20,3.83,T0108,Cloud Computing,7,4.89
+C0322,Data Science,Self-Paced Video,Beginner,49.99,15,4.23,T0021,Digital Marketing,10,4.26
+C0323,Marketing,Live Online,Beginner,99.99,25,4.61,T0044,JavaScript,14,4.82
+C0324,Programming,Live Online,Intermediate,49.99,8,4.29,T0011,Python Programming,8,4.51
+C0325,Business,Live Online,Intermediate,59.99,12,3.55,T0103,Finance,20,3.89
+C0326,Soft Skills,Self-Paced Video,Advanced,19.99,40,4.8,T0068,Project Management,13,3.79
+C0327,Design,Self-Paced Video,Beginner,79.99,10,3.6,T0115,Business Analytics,17,4.13
+C0328,Cloud & DevOps,Self-Paced Video,Beginner,29.99,10,4.93,T0001,UI/UX Design,13,3.7
+C0329,Data Science,Hybrid,Beginner,99.99,10,3.54,T0092,Digital Marketing,9,4.89
+C0330,Programming,Hybrid,Intermediate,79.99,40,4.54,T0063,Web Development,7,4.45
+C0331,Data Science,Live Online,Intermediate,59.99,25,3.62,T0024,Cloud Computing,7,4.12
+C0332,Data Science,Live Online,Beginner,19.99,15,4.87,T0099,Project Management,15,4.94
+C0333,Programming,Live Online,Advanced,39.99,8,4.2,T0013,SQL & Databases,11,4.34
+C0334,Data Science,Self-Paced Video,Beginner,29.99,40,3.71,T0111,JavaScript,17,3.37
+C0335,Data Science,Hybrid,Intermediate,39.99,12,4.01,T0098,Machine Learning,24,3.97
+C0336,Data Science,Self-Paced Video,Intermediate,19.99,15,3.75,T0011,Python Programming,8,4.51
+C0337,Design,Self-Paced Video,Advanced,129.99,12,3.76,T0100,JavaScript,22,4.93
+C0338,Programming,Self-Paced Video,Intermediate,49.99,15,4.92,T0051,JavaScript,9,4.6
+C0339,Business,Self-Paced Video,Advanced,39.99,25,4.17,T0017,Web Development,3,4.7
+C0340,Design,Self-Paced Video,Beginner,39.99,20,4.68,T0099,Project Management,15,4.94
+C0341,Cloud & DevOps,Live Online,Advanced,49.99,12,4.46,T0082,Python Programming,7,4.63
+C0342,Data Science,Self-Paced Video,Beginner,59.99,40,4.51,T0104,Web Development,17,4.73
+C0343,Cybersecurity,Live Online,Advanced,49.99,15,3.7,T0086,Machine Learning,13,3.55
+C0344,Marketing,Self-Paced Video,Intermediate,129.99,10,3.85,T0024,Cloud Computing,7,4.12
+C0345,Data Science,Self-Paced Video,Advanced,49.99,30,4.68,T0019,Cloud Computing,1,3.54
+C0346,Soft Skills,Self-Paced Video,Intermediate,199.99,10,4.96,T0037,Cybersecurity,8,4.39
+C0347,Soft Skills,Self-Paced Video,Intermediate,99.99,4,3.89,T0103,Finance,20,3.89
+C0348,Data Science,Live Online,Intermediate,29.99,20,3.91,T0085,Web Development,20,4.09
+C0349,Programming,Self-Paced Video,Intermediate,129.99,20,4.21,T0008,Business Analytics,24,4.41
+C0350,Finance,Live Online,Beginner,19.99,10,4.98,T0028,Machine Learning,2,4.44
