@@ -6,15 +6,13 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-# ===================== 3-COLOUR THEORY PALETTE =====================
-# Analogous Cool Palette (Trust + Clarity + Calm for EdTech)
-# Primary  : Deep Professional Blue  #0D47A1
-# Secondary: Soft Teal               #00897B
-# Neutral  : Cool Off-White          #F5F7FA
-PRIMARY = "#0D47A1"
-SECONDARY = "#00897B"
-NEUTRAL = "#F5F7FA"
-PRIMARY_DARK = "#0A3A82"
+# ===================== 3-COLOUR PALETTE (NO WHITE) =====================
+# Analogous Cool Palette – No white / off-white
+PRIMARY   = "#0D47A1"   # Deep Professional Blue
+SECONDARY = "#00897B"   # Soft Teal
+DARK      = "#0F172A"   # Dark Slate (backgrounds & cards)
+
+PRIMARY_DARK   = "#0A3A82"
 SECONDARY_LIGHT = "#26A69A"
 
 st.set_page_config(
@@ -24,109 +22,124 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Strict custom CSS – ONLY the 3 colours + necessary dark text for readability
+# Strict custom CSS – ONLY the 3 colours (no white)
 st.markdown(f"""
 <style>
-    /* Backgrounds */
+    /* Main background */
     .stApp {{
-        background-color: {NEUTRAL};
+        background-color: {DARK};
+        color: #E2E8F0;
     }}
+
+    /* Sidebar */
     [data-testid="stSidebar"] {{
         background-color: {PRIMARY};
     }}
     [data-testid="stSidebar"] * {{
-        color: white !important;
+        color: #E2E8F0 !important;
     }}
     [data-testid="stSidebar"] .stSelectbox label, 
     [data-testid="stSidebar"] .stRadio label {{
-        color: white !important;
+        color: #E2E8F0 !important;
     }}
-    
+
     /* Headers */
     h1, h2, h3, h4 {{
-        color: {PRIMARY} !important;
+        color: {SECONDARY} !important;
     }}
-    
+
     /* Metric cards */
     [data-testid="stMetric"] {{
-        background-color: white;
+        background-color: {PRIMARY};
         border: 2px solid {SECONDARY};
         border-radius: 12px;
         padding: 12px 16px;
-        box-shadow: 0 2px 8px rgba(13,71,161,0.08);
     }}
     [data-testid="stMetric"] label {{
-        color: {PRIMARY} !important;
+        color: #CBD5E1 !important;
         font-weight: 600;
     }}
     [data-testid="stMetric"] [data-testid="stMetricValue"] {{
         color: {SECONDARY} !important;
     }}
-    
+
     /* Buttons */
     .stButton > button {{
-        background-color: {PRIMARY};
-        color: white;
+        background-color: {SECONDARY};
+        color: {DARK};
         border: none;
         border-radius: 8px;
         font-weight: 600;
         padding: 0.5rem 1.2rem;
     }}
     .stButton > button:hover {{
-        background-color: {PRIMARY_DARK};
-        color: white;
+        background-color: {SECONDARY_LIGHT};
+        color: {DARK};
     }}
-    
+
     /* Tabs */
     .stTabs [data-baseweb="tab-list"] {{
         gap: 8px;
-        background-color: white;
+        background-color: {PRIMARY};
         border-radius: 10px;
         padding: 6px;
     }}
     .stTabs [data-baseweb="tab"] {{
-        background-color: {NEUTRAL};
-        color: {PRIMARY};
+        background-color: {DARK};
+        color: #CBD5E1;
         border-radius: 8px;
         font-weight: 600;
     }}
     .stTabs [aria-selected="true"] {{
-        background-color: {PRIMARY} !important;
-        color: white !important;
+        background-color: {SECONDARY} !important;
+        color: {DARK} !important;
     }}
-    
-    /* Cards / expanders */
+
+    /* Expanders */
     .streamlit-expanderHeader {{
-        background-color: white;
-        color: {PRIMARY};
+        background-color: {PRIMARY};
+        color: #E2E8F0;
         border-radius: 8px;
     }}
-    
+
     /* Dataframes */
     .stDataFrame {{
         border: 1px solid {SECONDARY};
         border-radius: 8px;
     }}
-    
-    /* Success / info boxes */
-    .stSuccess, .stInfo {{
-        background-color: white;
+
+    /* Info / Success boxes */
+    .stSuccess, .stInfo, .stWarning {{
+        background-color: {PRIMARY};
         border-left: 5px solid {SECONDARY};
+        color: #E2E8F0;
     }}
-    
-    /* Slider track */
+
+    /* Slider */
     .stSlider > div > div > div > div {{
         background-color: {SECONDARY};
     }}
-    
+
     /* Selectbox */
     .stSelectbox > div > div {{
-        border-color: {PRIMARY};
+        border-color: {SECONDARY};
+        background-color: {PRIMARY};
+    }}
+
+    /* General text */
+    p, span, label, div {{
+        color: #E2E8F0;
+    }}
+
+    /* Markdown tables */
+    table {{
+        background-color: {PRIMARY};
+        color: #E2E8F0;
     }}
 </style>
 """, unsafe_allow_html=True)
 
-# ===================== LOAD ARTIFACTS =====================
+# ===================== LOAD ARTIFACTS (relative paths) =====================
 @st.cache_resource
 def load_artifacts():
     model_enroll = joblib.load('model_enrollment.pkl')
@@ -159,24 +172,23 @@ page = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.markdown(f"""
-**Colour Palette (Theory)**  
-🟢 Primary: `{PRIMARY}`  
+**3-Colour Palette (No White)**  
+🔵 Primary: `{PRIMARY}`  
 🟢 Secondary: `{SECONDARY}`  
-🟢 Neutral: `{NEUTRAL}`  
-Analogous cool tones for trust & clarity.
+⬛ Dark: `{DARK}`  
 """)
 
 # ===================== HELPER =====================
 def create_plotly_theme(fig):
     fig.update_layout(
-        paper_bgcolor=NEUTRAL,
-        plot_bgcolor="white",
-        font_color=PRIMARY,
-        title_font_color=PRIMARY,
+        paper_bgcolor=DARK,
+        plot_bgcolor=PRIMARY,
+        font_color="#E2E8F0",
+        title_font_color=SECONDARY,
         colorway=[PRIMARY, SECONDARY, PRIMARY_DARK, SECONDARY_LIGHT]
     )
-    fig.update_xaxes(gridcolor="#E0E0E0", zerolinecolor="#E0E0E0")
-    fig.update_yaxes(gridcolor="#E0E0E0", zerolinecolor="#E0E0E0")
+    fig.update_xaxes(gridcolor="#334155", zerolinecolor="#334155", color="#E2E8F0")
+    fig.update_yaxes(gridcolor="#334155", zerolinecolor="#334155", color="#E2E8F0")
     return fig
 
 # ===================== PAGES =====================
@@ -185,7 +197,6 @@ if page == "🏠 Overview Dashboard":
     st.title("EduPro Course Demand & Revenue Forecasting")
     st.markdown("**Moving from reactive reporting to proactive planning**")
     
-    # KPI row
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric("Total Courses", f"{len(df):,}")
@@ -198,14 +209,13 @@ if page == "🏠 Overview Dashboard":
     
     st.markdown("---")
     
-    # Two charts
     c1, c2 = st.columns(2)
     
     with c1:
         st.subheader("Enrollment Distribution by Category")
         fig = px.bar(cat_stats.sort_values('EnrollmentCount', ascending=True),
                      x='EnrollmentCount', y='CourseCategory', orientation='h',
-                     color_discrete_sequence=[PRIMARY])
+                     color_discrete_sequence=[SECONDARY])
         fig = create_plotly_theme(fig)
         fig.update_layout(height=400, margin=dict(l=10,r=10,t=30,b=10), showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
@@ -214,12 +224,11 @@ if page == "🏠 Overview Dashboard":
         st.subheader("Revenue Distribution by Category")
         fig2 = px.bar(cat_stats.sort_values('CourseRevenue', ascending=True),
                       x='CourseRevenue', y='CourseCategory', orientation='h',
-                      color_discrete_sequence=[SECONDARY])
+                      color_discrete_sequence=[PRIMARY])
         fig2 = create_plotly_theme(fig2)
         fig2.update_layout(height=400, margin=dict(l=10,r=10,t=30,b=10), showlegend=False)
         st.plotly_chart(fig2, use_container_width=True)
     
-    # Model performance snapshot
     st.subheader("Model Performance Snapshot (Gradient Boosting – Best Model)")
     m1, m2 = st.columns(2)
     with m1:
@@ -250,9 +259,9 @@ elif page == "📊 Historical Insights":
         
         fig = make_subplots(rows=1, cols=2, subplot_titles=("Avg Enrollments by Price Band", "Avg Revenue by Price Band"))
         fig.add_trace(go.Bar(x=price_agg['PriceBand'], y=price_agg['EnrollmentCount'],
-                             marker_color=PRIMARY, name="Enrollments"), row=1, col=1)
+                             marker_color=SECONDARY, name="Enrollments"), row=1, col=1)
         fig.add_trace(go.Bar(x=price_agg['PriceBand'], y=price_agg['CourseRevenue'],
-                             marker_color=SECONDARY, name="Revenue"), row=1, col=2)
+                             marker_color=PRIMARY, name="Revenue"), row=1, col=2)
         fig = create_plotly_theme(fig)
         fig.update_layout(height=380, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
@@ -263,7 +272,7 @@ elif page == "📊 Historical Insights":
         st.subheader("Teacher & Course Rating Influence")
         fig = px.scatter(df, x='CourseRating', y='EnrollmentCount',
                          size='CourseRevenue', color='TeacherRating',
-                         color_continuous_scale=[[0, NEUTRAL], [0.5, SECONDARY], [1, PRIMARY]],
+                         color_continuous_scale=[[0, DARK], [0.5, PRIMARY], [1, SECONDARY]],
                          hover_data=['CourseCategory', 'CoursePrice'],
                          title="Enrollment vs Course Rating (size = Revenue, colour = Teacher Rating)")
         fig = create_plotly_theme(fig)
@@ -295,7 +304,7 @@ elif page == "🔍 Feature Importance":
     with c1:
         st.subheader("What Drives Enrollment?")
         fig = px.bar(fi_enroll.head(10), x='Importance', y='Feature', orientation='h',
-                     color_discrete_sequence=[PRIMARY])
+                     color_discrete_sequence=[SECONDARY])
         fig = create_plotly_theme(fig)
         fig.update_layout(height=420, yaxis={'categoryorder': 'total ascending'}, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
@@ -303,7 +312,7 @@ elif page == "🔍 Feature Importance":
     with c2:
         st.subheader("What Drives Revenue?")
         fig2 = px.bar(fi_rev.head(10), x='Importance', y='Feature', orientation='h',
-                      color_discrete_sequence=[SECONDARY])
+                      color_discrete_sequence=[PRIMARY])
         fig2 = create_plotly_theme(fig2)
         fig2.update_layout(height=420, yaxis={'categoryorder': 'total ascending'}, showlegend=False)
         st.plotly_chart(fig2, use_container_width=True)
@@ -339,12 +348,10 @@ elif page == "🎯 Interactive Predictor":
         with col3:
             category = st.selectbox("Category", sorted(df['CourseCategory'].unique()))
             course_type = st.selectbox("Course Type", ["Self-Paced Video", "Live Online", "Hybrid"])
-            st.markdown("")  # spacer
+            st.markdown("")
             submitted = st.form_submit_button("🔮 Predict Demand & Revenue", use_container_width=True)
     
     if submitted:
-        # Build feature vector
-        # Price band
         if price <= 40:
             pb = "Low"
         elif price <= 80:
@@ -373,10 +380,8 @@ elif page == "🎯 Interactive Predictor":
         else:
             eb = "Senior"
         
-        # Simple match score
         match = 0.7 if any(k in category.lower() for k in ["data", "program", "ai", "business"]) else 0.4
         
-        # Encode
         level_enc = encoders['le_level'].transform([level])[0]
         type_enc = encoders['le_type'].transform([course_type])[0]
         cat_enc = encoders['le_cat'].transform([category])[0] if category in encoders['le_cat'].classes_ else 0
@@ -404,7 +409,6 @@ elif page == "🎯 Interactive Predictor":
         with k3:
             st.metric("Revenue per Enrollment", f"${pred_rev/max(pred_enroll,1):.2f}")
         
-        # Simple interpretation
         if pred_enroll >= 70:
             st.success("🚀 **High demand potential** – Strong candidate for promotion and instructor investment.")
         elif pred_enroll >= 45:
@@ -428,7 +432,7 @@ elif page == "📁 Category Comparison":
     fig = px.scatter(cat_stats, x='EnrollmentCount', y='CourseRevenue',
                      size='NumCourses', color='CourseRating',
                      hover_name='CourseCategory',
-                     color_continuous_scale=[[0, SECONDARY], [1, PRIMARY]],
+                     color_continuous_scale=[[0, PRIMARY], [1, SECONDARY]],
                      title="Category Performance: Enrollments vs Revenue (size = # courses)")
     fig = create_plotly_theme(fig)
     fig.update_layout(height=480)
@@ -474,4 +478,4 @@ elif page == "ℹ️ About & Methodology":
     """)
     
     st.markdown("---")
-    st.caption("Built with a strict 3-colour palette grounded in colour theory (Analogous Cool: Deep Blue + Teal + Off-White) for professional trust and clarity.")
+    st.caption("Built with a strict 3-colour palette (No White) grounded in colour theory: Deep Blue + Teal + Dark Slate.")
